@@ -1,0 +1,27 @@
+{
+ "sido": "11",
+ "count": 1,
+ "items": [
+  {
+   "id": "2026-seoul-youth-transit",
+   "title": "서울 청년 대중교통비 지원",
+   "sido": "11",
+   "sigungu": [],
+   "category": "청년",
+   "targets": [
+    "청년",
+    "저소득"
+   ],
+   "amount": "연 최대 10만 원",
+   "amountNum": 100000,
+   "agency": "서울특별시",
+   "method": "온라인(청년몽땅정보통)",
+   "start": "2026-03-02",
+   "end": "2026-09-02",
+   "posted": "2026-08-24",
+   "url": "https://youth.seoul.go.kr",
+   "summary": "서울에 거주하는 만 19~24세 청년의 교통비 부담을 덜기 위해 사용 실적의 20%를 마일리지로 돌려줍니다. 중위소득 150% 이하 가구가 대상입니다.",
+   "verified": true
+  }
+ ]
+}

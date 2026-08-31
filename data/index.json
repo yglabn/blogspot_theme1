@@ -1,0 +1,234 @@
+{
+ "updatedAt": "2026-08-27T08:26:34+09:00",
+ "total": 10,
+ "counts": {
+  "00": 2,
+  "11": 1,
+  "26": 1,
+  "27": 1,
+  "41": 2,
+  "46": 1,
+  "50": 1,
+  "51": 1
+ },
+ "featured": [
+  {
+   "id": "2026-gangwon-house-repair",
+   "title": "강원 산촌 이주민 주택 수리비",
+   "sido": "51",
+   "sigungu": [
+    "정선군",
+    "평창군",
+    "영월군"
+   ],
+   "category": "주거",
+   "targets": [
+    "중장년",
+    "저소득"
+   ],
+   "amount": "가구당 최대 1,000만 원",
+   "amountNum": 10000000,
+   "agency": "강원특별자치도",
+   "method": "방문(군청)",
+   "start": "2026-09-01",
+   "end": "2026-10-31",
+   "posted": "2026-08-26",
+   "url": "https://state.gwd.go.kr",
+   "summary": "인구 감소 지역으로 전입한 가구의 노후 주택 수리비를 지원합니다. 전입 후 1년 이내 신청해야 하며 5년 거주 의무가 있습니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-busan-sme-fund",
+   "title": "부산 소상공인 경영안정 자금",
+   "sido": "26",
+   "sigungu": [],
+   "category": "소상공인",
+   "targets": [
+    "소상공인"
+   ],
+   "amount": "업체당 최대 5,000만 원 융자",
+   "amountNum": 50000000,
+   "agency": "부산광역시",
+   "method": "온라인 + 은행 방문",
+   "start": "2026-08-25",
+   "end": "2026-08-31",
+   "posted": "2026-08-25",
+   "url": "https://www.busan.go.kr",
+   "summary": "매출이 줄어든 부산 지역 소상공인에게 저리 융자와 이자 차액을 보전합니다. 예산 소진 시 조기 마감될 수 있습니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-seoul-youth-transit",
+   "title": "서울 청년 대중교통비 지원",
+   "sido": "11",
+   "sigungu": [],
+   "category": "청년",
+   "targets": [
+    "청년",
+    "저소득"
+   ],
+   "amount": "연 최대 10만 원",
+   "amountNum": 100000,
+   "agency": "서울특별시",
+   "method": "온라인(청년몽땅정보통)",
+   "start": "2026-03-02",
+   "end": "2026-09-02",
+   "posted": "2026-08-24",
+   "url": "https://youth.seoul.go.kr",
+   "summary": "서울에 거주하는 만 19~24세 청년의 교통비 부담을 덜기 위해 사용 실적의 20%를 마일리지로 돌려줍니다. 중위소득 150% 이하 가구가 대상입니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-molit-youth-rent",
+   "title": "청년월세 한시 특별지원",
+   "sido": "00",
+   "sigungu": [],
+   "category": "주거",
+   "targets": [
+    "청년",
+    "1인가구",
+    "저소득"
+   ],
+   "amount": "월 20만 원 × 최대 12개월",
+   "amountNum": 2400000,
+   "agency": "국토교통부",
+   "method": "온라인(복지로)",
+   "start": "2026-01-02",
+   "end": "2026-12-31",
+   "posted": "2026-08-20",
+   "url": "https://www.bokjiro.go.kr",
+   "summary": "부모와 따로 사는 만 19~34세 무주택 청년에게 실제 납부 임대료를 월 최대 20만 원까지 지원합니다. 보증금 5천만 원 이하, 월세 60만 원 이하 주택이 대상입니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-gg-youth-account",
+   "title": "경기도 청년 노동자 통장",
+   "sido": "41",
+   "sigungu": [],
+   "category": "일자리",
+   "targets": [
+    "청년",
+    "구직자"
+   ],
+   "amount": "2년 만기 최대 580만 원",
+   "amountNum": 5800000,
+   "agency": "경기도 · 경기도일자리재단",
+   "method": "온라인(잡아바)",
+   "start": "2026-08-18",
+   "end": "2026-09-01",
+   "posted": "2026-08-18",
+   "url": "https://www.jobaba.net",
+   "summary": "매월 10만 원을 저축하면 도가 지원금을 더해 2년 뒤 목돈으로 돌려주는 자산형성 사업입니다. 도내 거주·재직 중인 청년 노동자가 신청할 수 있습니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-moel-commute",
+   "title": "중소기업 취업 청년 교통비",
+   "sido": "00",
+   "sigungu": [],
+   "category": "일자리",
+   "targets": [
+    "청년",
+    "구직자"
+   ],
+   "amount": "분기 30만 원",
+   "amountNum": 1200000,
+   "agency": "고용노동부",
+   "method": "온라인(고용24)",
+   "start": "2026-01-15",
+   "end": "2026-08-29",
+   "posted": "2026-08-12",
+   "url": "https://www.work24.go.kr",
+   "summary": "중소기업에 재직 중인 만 34세 이하 청년의 출퇴근 교통비를 분기 단위로 지급합니다. 고용보험 가입 6개월 이상이 조건입니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-daegu-senior-checkup",
+   "title": "대구 어르신 건강검진 바우처",
+   "sido": "27",
+   "sigungu": [
+    "수성구",
+    "달서구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "1인당 25만 원 상당",
+   "amountNum": 250000,
+   "agency": "대구광역시",
+   "method": "방문(보건소)",
+   "start": "2026-08-01",
+   "end": "2026-09-15",
+   "posted": "2026-08-01",
+   "url": "https://www.daegu.go.kr",
+   "summary": "만 65세 이상 어르신에게 종합검진 비용을 바우처로 지원합니다. 자치구별 예산에 따라 선착순으로 마감됩니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-jn-young-farmer",
+   "title": "전남 농어촌 청년 정착 지원금",
+   "sido": "46",
+   "sigungu": [],
+   "category": "농어업",
+   "targets": [
+    "청년",
+    "농어민"
+   ],
+   "amount": "월 최대 110만 원 × 3년",
+   "amountNum": 39600000,
+   "agency": "전라남도",
+   "method": "온라인",
+   "start": "2026-02-01",
+   "end": "2026-11-30",
+   "posted": "2026-07-30",
+   "url": "https://www.jeonnam.go.kr",
+   "summary": "귀농·귀어한 만 40세 미만 청년에게 초기 정착 자금을 단계적으로 지원합니다. 영농 경력 3년 이하이면서 도내에 거주해야 합니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-suwon-birth",
+   "title": "수원시 출산 축하금",
+   "sido": "41",
+   "sigungu": [
+    "수원시"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "다자녀",
+    "임산부"
+   ],
+   "amount": "첫째 100만 원 / 셋째 300만 원",
+   "amountNum": 3000000,
+   "agency": "수원시청",
+   "method": "방문(행정복지센터)",
+   "start": "2026-01-01",
+   "end": "상시",
+   "posted": "2026-06-11",
+   "url": "https://www.suwon.go.kr",
+   "summary": "출생 신고와 함께 신청하면 출산 축하금을 지역화폐로 지급합니다. 신청일 기준 부모 중 1명이 수원시에 6개월 이상 주민등록되어 있어야 합니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-jeju-newlywed",
+   "title": "제주 신혼부부 전세자금 이자 지원",
+   "sido": "50",
+   "sigungu": [],
+   "category": "주거",
+   "targets": [
+    "신혼부부"
+   ],
+   "amount": "대출이자 연 2% 보전",
+   "amountNum": 0,
+   "agency": "제주특별자치도",
+   "method": "방문(읍면동)",
+   "start": "2026-04-01",
+   "end": "상시",
+   "posted": "2026-05-14",
+   "url": "https://www.jeju.go.kr",
+   "summary": "혼인 7년 이내 신혼부부의 전세 대출 이자를 최대 4년간 보전합니다. 부부 합산 연소득 기준을 충족해야 합니다.",
+   "verified": true
+  }
+ ]
+}

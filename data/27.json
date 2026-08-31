@@ -1,0 +1,30 @@
+{
+ "sido": "27",
+ "count": 1,
+ "items": [
+  {
+   "id": "2026-daegu-senior-checkup",
+   "title": "대구 어르신 건강검진 바우처",
+   "sido": "27",
+   "sigungu": [
+    "수성구",
+    "달서구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "1인당 25만 원 상당",
+   "amountNum": 250000,
+   "agency": "대구광역시",
+   "method": "방문(보건소)",
+   "start": "2026-08-01",
+   "end": "2026-09-15",
+   "posted": "2026-08-01",
+   "url": "https://www.daegu.go.kr",
+   "summary": "만 65세 이상 어르신에게 종합검진 비용을 바우처로 지원합니다. 자치구별 예산에 따라 선착순으로 마감됩니다.",
+   "verified": true
+  }
+ ]
+}

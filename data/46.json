@@ -1,0 +1,27 @@
+{
+ "sido": "46",
+ "count": 1,
+ "items": [
+  {
+   "id": "2026-jn-young-farmer",
+   "title": "전남 농어촌 청년 정착 지원금",
+   "sido": "46",
+   "sigungu": [],
+   "category": "농어업",
+   "targets": [
+    "청년",
+    "농어민"
+   ],
+   "amount": "월 최대 110만 원 × 3년",
+   "amountNum": 39600000,
+   "agency": "전라남도",
+   "method": "온라인",
+   "start": "2026-02-01",
+   "end": "2026-11-30",
+   "posted": "2026-07-30",
+   "url": "https://www.jeonnam.go.kr",
+   "summary": "귀농·귀어한 만 40세 미만 청년에게 초기 정착 자금을 단계적으로 지원합니다. 영농 경력 3년 이하이면서 도내에 거주해야 합니다.",
+   "verified": true
+  }
+ ]
+}

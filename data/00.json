@@ -1,0 +1,49 @@
+{
+ "sido": "00",
+ "count": 2,
+ "items": [
+  {
+   "id": "2026-moel-commute",
+   "title": "중소기업 취업 청년 교통비",
+   "sido": "00",
+   "sigungu": [],
+   "category": "일자리",
+   "targets": [
+    "청년",
+    "구직자"
+   ],
+   "amount": "분기 30만 원",
+   "amountNum": 1200000,
+   "agency": "고용노동부",
+   "method": "온라인(고용24)",
+   "start": "2026-01-15",
+   "end": "2026-08-29",
+   "posted": "2026-08-12",
+   "url": "https://www.work24.go.kr",
+   "summary": "중소기업에 재직 중인 만 34세 이하 청년의 출퇴근 교통비를 분기 단위로 지급합니다. 고용보험 가입 6개월 이상이 조건입니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-molit-youth-rent",
+   "title": "청년월세 한시 특별지원",
+   "sido": "00",
+   "sigungu": [],
+   "category": "주거",
+   "targets": [
+    "청년",
+    "1인가구",
+    "저소득"
+   ],
+   "amount": "월 20만 원 × 최대 12개월",
+   "amountNum": 2400000,
+   "agency": "국토교통부",
+   "method": "온라인(복지로)",
+   "start": "2026-01-02",
+   "end": "2026-12-31",
+   "posted": "2026-08-20",
+   "url": "https://www.bokjiro.go.kr",
+   "summary": "부모와 따로 사는 만 19~34세 무주택 청년에게 실제 납부 임대료를 월 최대 20만 원까지 지원합니다. 보증금 5천만 원 이하, 월세 60만 원 이하 주택이 대상입니다.",
+   "verified": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "sido": "51",
+ "count": 1,
+ "items": [
+  {
+   "id": "2026-gangwon-house-repair",
+   "title": "강원 산촌 이주민 주택 수리비",
+   "sido": "51",
+   "sigungu": [
+    "정선군",
+    "평창군",
+    "영월군"
+   ],
+   "category": "주거",
+   "targets": [
+    "중장년",
+    "저소득"
+   ],
+   "amount": "가구당 최대 1,000만 원",
+   "amountNum": 10000000,
+   "agency": "강원특별자치도",
+   "method": "방문(군청)",
+   "start": "2026-09-01",
+   "end": "2026-10-31",
+   "posted": "2026-08-26",
+   "url": "https://state.gwd.go.kr",
+   "summary": "인구 감소 지역으로 전입한 가구의 노후 주택 수리비를 지원합니다. 전입 후 1년 이내 신청해야 하며 5년 거주 의무가 있습니다.",
+   "verified": true
+  }
+ ]
+}

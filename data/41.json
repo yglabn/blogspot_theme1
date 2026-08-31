@@ -1,0 +1,50 @@
+{
+ "sido": "41",
+ "count": 2,
+ "items": [
+  {
+   "id": "2026-gg-youth-account",
+   "title": "경기도 청년 노동자 통장",
+   "sido": "41",
+   "sigungu": [],
+   "category": "일자리",
+   "targets": [
+    "청년",
+    "구직자"
+   ],
+   "amount": "2년 만기 최대 580만 원",
+   "amountNum": 5800000,
+   "agency": "경기도 · 경기도일자리재단",
+   "method": "온라인(잡아바)",
+   "start": "2026-08-18",
+   "end": "2026-09-01",
+   "posted": "2026-08-18",
+   "url": "https://www.jobaba.net",
+   "summary": "매월 10만 원을 저축하면 도가 지원금을 더해 2년 뒤 목돈으로 돌려주는 자산형성 사업입니다. 도내 거주·재직 중인 청년 노동자가 신청할 수 있습니다.",
+   "verified": true
+  },
+  {
+   "id": "2026-suwon-birth",
+   "title": "수원시 출산 축하금",
+   "sido": "41",
+   "sigungu": [
+    "수원시"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "다자녀",
+    "임산부"
+   ],
+   "amount": "첫째 100만 원 / 셋째 300만 원",
+   "amountNum": 3000000,
+   "agency": "수원시청",
+   "method": "방문(행정복지센터)",
+   "start": "2026-01-01",
+   "end": "상시",
+   "posted": "2026-06-11",
+   "url": "https://www.suwon.go.kr",
+   "summary": "출생 신고와 함께 신청하면 출산 축하금을 지역화폐로 지급합니다. 신청일 기준 부모 중 1명이 수원시에 6개월 이상 주민등록되어 있어야 합니다.",
+   "verified": true
+  }
+ ]
+}

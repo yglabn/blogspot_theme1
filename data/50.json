@@ -1,0 +1,26 @@
+{
+ "sido": "50",
+ "count": 1,
+ "items": [
+  {
+   "id": "2026-jeju-newlywed",
+   "title": "제주 신혼부부 전세자금 이자 지원",
+   "sido": "50",
+   "sigungu": [],
+   "category": "주거",
+   "targets": [
+    "신혼부부"
+   ],
+   "amount": "대출이자 연 2% 보전",
+   "amountNum": 0,
+   "agency": "제주특별자치도",
+   "method": "방문(읍면동)",
+   "start": "2026-04-01",
+   "end": "상시",
+   "posted": "2026-05-14",
+   "url": "https://www.jeju.go.kr",
+   "summary": "혼인 7년 이내 신혼부부의 전세 대출 이자를 최대 4년간 보전합니다. 부부 합산 연소득 기준을 충족해야 합니다.",
+   "verified": true
+  }
+ ]
+}
