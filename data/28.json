@@ -1,0 +1,4454 @@
+{
+ "sido": "28",
+ "count": 192,
+ "items": [
+  {
+   "id": "bokjiro-WLF00001220",
+   "title": "산모신생아 건강관리 지원 사업(자체)",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "청년",
+    "중장년"
+   ],
+   "amount": "산모신생아 건강관리 서비스 이용금액 중 정부지원금 지원(본인부담금 별도)",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001220&wlfareInfoReldBztpCd=02",
+   "summary": "산모신생아 건강관리 서비스 이용금액 중 정부지원금 지원(본인부담금 별도)",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005936",
+   "title": "중증당뇨환자(1형 당뇨환자)지원 사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "청년",
+    "중장년",
+    "어르신"
+   ],
+   "amount": "연속혈당측정기, 인슐린자동주입기 본인부담금 30%중 20% 계좌이체",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-27",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005936&wlfareInfoReldBztpCd=02",
+   "summary": "중증 당뇨환자의 인슐린 자동주입기 등 관리기기 구입에 따른 본인부담금 일부지원으로 당뇨환자의 경제적 부담 완화를 위한 사업입니다.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002680",
+   "title": "민간가정 어린이집 부모부담 보육료지원",
+   "sido": "28",
+   "sigungu": [
+    "미추홀구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "O 누리과정 부모부담보육료 지원- 미추홀구 관내 민간, 가정 어린이집 부모부담보육료 지원 - 지원금액(2026년 기준)   만3세 : 142,0",
+   "amountNum": 0,
+   "agency": "인천광역시 미추홀구",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-22",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002680&wlfareInfoReldBztpCd=02",
+   "summary": "O 누리과정 부모부담보육료 지원- 미추홀구 관내 민간, 가정 어린이집 부모부담보육료 지원 - 지원금액(2026년 기준)   만3세 : 142,000원 / 만4~5세 : 127,000원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003151",
+   "title": "자립역량 강화를 위한 교육비 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "일자리",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "지원대상 : 지자체 민간위탁 자활근로사업에 참여 중에 있는 자 지원내용 : 연간 1인 최대 80만원 이내 자격증 취득비 지원",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-21",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003151&wlfareInfoReldBztpCd=02",
+   "summary": "-자활참여자의 취업 및 자립을 지원하기 위해 자격증 취득비용 지원\n-운전면허증, 요양보호사, 한식조리사, 커피바리스타, 제과제빵 자격증 등 취득 지원 \n-본인부담금은 수강료의 10%이며 1인당 최대 지원금액 800천원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00006744",
+   "title": "연수구 어르신 품위유지비 사업",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신"
+   ],
+   "amount": "인천(연수)e음카드 충전(상·하반기 각 6만원)",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "전화, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-20",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006744&wlfareInfoReldBztpCd=02",
+   "summary": "초고령 사회 진입에 따라 관내 거주 어르신의 행복한 노년 및 활기찬 노후생활을 도모하기 위한 어르신 품위유지비를 지원하여 노인복지증진에 기여하고자 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000938",
+   "title": "저소득층 대상포진 예방접종 지원",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "기타",
+   "targets": [
+    "중장년",
+    "어르신",
+    "저소득"
+   ],
+   "amount": "대상포진 무료 예방접종 1회",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-20",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000938&wlfareInfoReldBztpCd=02",
+   "summary": "대상포진 무료 예방접종 1회",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004583",
+   "title": "출산·양육지원사업 추진",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년",
+    "임산부"
+   ],
+   "amount": "① 출산지원금  - 첫째아500만원(일시금350만원, 월 50만원씩 3회) - 둘째아800만원(일시금350만원, 월 50만원씩 9회)  - 셋째",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-20",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004583&wlfareInfoReldBztpCd=02",
+   "summary": "① 출산지원금  - 첫째아500만원(일시금350만원, 월 50만원씩 3회) - 둘째아800만원(일시금350만원, 월 50만원씩 9회)  - 셋째아1,300만원(일시금350만원, 월 50만원씩 19회)  - 넷째아이상 2,000만원(일시금440만원, 월40만원씩 39회)② 생일축하금 : 연20만원(만1세~만6세)③ 양육비 : 첫째아 120만원(월/10만원/1년), 둘째아 240만원(월/10만원/2년), 셋째아 540만원(월/15만원/3년), 넷째이상 720만원(월/20만원/3년)",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002277",
+   "title": "의료급여 부분틀니 지대치 지원",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "노인 부분틀니 지대치 1대당 25만원 한도최대 2대(지대치 비용의 10%는 본인부담)",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002277&wlfareInfoReldBztpCd=02",
+   "summary": "인천광역시 영종구에 거주하는 65세 이상 의료급여 수급자 중 부분틀니 사전등록자의 지대치 시술비용을 지원하여 \n구강기능의 향상 및 건강한 식생활을 영위할 수 있도록 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002489",
+   "title": "무연고사망자 장제비지원, 행려자 여비지원",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "중장년",
+    "어르신"
+   ],
+   "amount": "장제비 지원 및 행려자 귀향여비 지원",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "방문, 전화, 우편",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002489&wlfareInfoReldBztpCd=02",
+   "summary": "장제비 지원 및 행려자 귀향여비 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001349",
+   "title": "민간보육시설 이용아동 차액보육료 지원",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "기관보육료 지원 어린이집 - 3세: 138,000원 - 4세: 123,000원 - 5세: 123,000원",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001349&wlfareInfoReldBztpCd=02",
+   "summary": "기관보육료 지원 어린이집 - 3세: 138,000원 - 4세: 123,000원 - 5세: 123,000원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005336",
+   "title": "뇌 MRI·MRA 검사비 지원",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "한부모",
+    "저소득"
+   ],
+   "amount": "중구에 거주하는 기초생활수급자 및 차상위계층뇌질환(뇌경색, 뇌출혈 등)의 의심 및 원인을 찾기 위한 검사를 받은 경우외래진료(첫회) 검사 실비 ",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005336&wlfareInfoReldBztpCd=02",
+   "summary": "중구에 거주하는 기초생활수급자 및 차상위계층뇌질환(뇌경색, 뇌출혈 등)의 의심 및 원인을 찾기 위한 검사를 받은 경우외래진료(첫회) 검사 실비 20~50만원 한도 내본인부담금 15% 자부담건강검진 및 뇌혈관 질환 진단을 받고 추적관찰을 위한 검사비 제외",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005335",
+   "title": "임신준비 건강관리 지원",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "임산부"
+   ],
+   "amount": "건강검진(남 15종, 여 16종) → 임신준비 부부 엽산제 지원 → 대상자 별 맞춤 건강관리",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005335&wlfareInfoReldBztpCd=02",
+   "summary": "임신을 준비하는 부부 및 예비모에게 임신 전 건강검진 및 엽산제를 지원함으로써 임신에 장애가 되는 고위험 요인을 조기 발견하고 관리하여 건강한 임신과 안전한 출산을 돕고자 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005334",
+   "title": "임플란트·틀니 의료비 지원",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "청년",
+    "중장년",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "중구에 거주하는 19세이상 ~ 64세이하 기초생활수급자 및 차상위계층치료 완료 후 100만원 한도 내본인부담금 15% 자부담1인 1회, 치아 1",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005334&wlfareInfoReldBztpCd=02",
+   "summary": "중구에 거주하는 19세이상 ~ 64세이하 기초생활수급자 및 차상위계층치료 완료 후 100만원 한도 내본인부담금 15% 자부담1인 1회, 치아 1대 이내 지원시술 중 관외 전출자, 시술 포기자는 지원 불가",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005333",
+   "title": "보금자리 이사비 지원",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "한부모",
+    "저소득"
+   ],
+   "amount": "최대 50만원 한도 내 실제 이사(이사업체)에 소요되는 실비 지원연간 1회 지원",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "우편, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005333&wlfareInfoReldBztpCd=02",
+   "summary": "최대 50만원 한도 내 실제 이사(이사업체)에 소요되는 실비 지원연간 1회 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004775",
+   "title": "무주택 다자녀 가구 전세자금 대출이자 지원",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "주거",
+   "targets": [
+    "다자녀"
+   ],
+   "amount": "가. 연 1회, 최대 5회 지원  나. 주택전세자금 대출잔액의 1.5%내에서 지급하되, 최대 100만원 지원",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004775&wlfareInfoReldBztpCd=02",
+   "summary": "무주택 다자녀 가구의 주거 부담을 완화하고 재정적 지원을 통해 저출산 문제 해결에 기여하기 위하여 전세자금 대출이자 지원 사업을 추진하고자 함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001958",
+   "title": "아토피·천식·비염 예방관리",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "연 24만원 의료비 지원",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001958&wlfareInfoReldBztpCd=02",
+   "summary": "연 24만원 의료비 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001351",
+   "title": "산모신생아건강관리서비스 본인부담금 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년",
+    "임산부"
+   ],
+   "amount": "정부지원금을 제외한 본인부담금 중 10%를 제외한 비용 지원 - 인천시 지원금을 포함한 본인부담금 90% 지원",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001351&wlfareInfoReldBztpCd=02",
+   "summary": "출산가정에 건강관리사를 파견하여 산모의 산후회복과 신생아의 양육을 지원하는 사업으로 경제적 부담때문에 산모신생아건강관리 서비스 이용을 받지 못하는 출산가정이 없도록하여 아기낳고 키우기 좋은 건강한 지역사회 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004378",
+   "title": "강화군 시간제 청년근로자 장려금 지원",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "일자리",
+   "targets": [
+    "청년"
+   ],
+   "amount": "근로시간 1시간당 1천원, 1일 5천원, 월 10만원 한도내 장려금 지급",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004378&wlfareInfoReldBztpCd=02",
+   "summary": "불안정한 고용과 저임금 환경에 노출된 시간제로 근무하는 청년에게 급여의 일부를 보전하여 청년복지 향상과 취업역량 강화를 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003919",
+   "title": "국가보훈대상자 수당 및 사망위로금 지급",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "1. 보훈예우수당: 월 14만원2. 상이군경예우수당: 월14만원3. 전몰군경유족수당: 월 15만원4. 독립유공자명예수당: 월 15만원5. 사망위",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003919&wlfareInfoReldBztpCd=02",
+   "summary": "1. 보훈예우수당: 월 14만원2. 상이군경예우수당: 월14만원3. 전몰군경유족수당: 월 15만원4. 독립유공자명예수당: 월 15만원5. 사망위로금: 20만원(1회 지급)",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004628",
+   "title": "참전유공자 참전명예수당 및 사망위로금 지급",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "1. 참전명예수당: 월 25만원(매월 25일 신청계좌로 입금)2. 사망위로금: 30만원(1회, 신청계좌로 입금)",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004628&wlfareInfoReldBztpCd=02",
+   "summary": "1. 참전명예수당: 월 25만원(매월 25일 신청계좌로 입금)2. 사망위로금: 30만원(1회, 신청계좌로 입금)",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001350",
+   "title": "산모신생아 건강관리지원사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년",
+    "임산부"
+   ],
+   "amount": "산모·신생아 건강관리사 출산가정의 집으로 찾아가 서비스를 제공합니다.-산모건강관리, 신생아 건강관리, 산모 정보제공, 가사활동지원, 정서지원 등",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001350&wlfareInfoReldBztpCd=02",
+   "summary": "산모·신생아 건강관리사 출산가정의 집으로 찾아가 서비스를 제공합니다.-산모건강관리, 신생아 건강관리, 산모 정보제공, 가사활동지원, 정서지원 등",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001798",
+   "title": "다문화가족 지원 사업",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "문화·여가",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "○ 지방보조금 공모사업",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001798&wlfareInfoReldBztpCd=02",
+   "summary": "○ 지방보조금 공모사업",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003918",
+   "title": "국가보훈대상자 건강생활지원수당 지원",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지급기준일 현재 연수구에 주민등록을 두고있는 65세 이상 국가보훈대상자에게 건강생활지원수당 지원(6월,12월) 5만원 지원",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003918&wlfareInfoReldBztpCd=02",
+   "summary": "지급기준일 현재 연수구에 주민등록을 두고있는 65세 이상 국가보훈대상자에게 건강생활지원수당 지원(6월,12월) 5만원 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000956",
+   "title": "효행수당",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신"
+   ],
+   "amount": "월 10만원",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000956&wlfareInfoReldBztpCd=02",
+   "summary": "아름다운 전통문화유산인 효를 장려함으로써 핵가족화와 고령화에 따른 사회문제를 해결하고 지역 및 국가의 효행문화 발전을 이바지함을 목적",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002792",
+   "title": "노숙인 등 지원",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "- 노숙인이나 부랑인은 고향으로 돌아갈 수 있도록 목적지까지 귀향여비를 지급- 무연고 사망자에 대한 장제비 및 장례비 지급",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문, 전화",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002792&wlfareInfoReldBztpCd=02",
+   "summary": "- 노숙인이나 부랑인은 고향으로 돌아갈 수 있도록 목적지까지 귀향여비를 지급- 무연고 사망자에 대한 장제비 및 장례비 지급",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002491",
+   "title": "저소득층 건강보험료 지원",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년",
+    "어르신",
+    "장애인",
+    "저소득"
+   ],
+   "amount": "건강보험료 및 노인장기요양보험료 지원",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002491&wlfareInfoReldBztpCd=02",
+   "summary": "생활에 어려움을 겪고 있는 저소득 세대에게 국민건강 노인장기요양보험료를 지원함으로써 구민의 건강증진과 사회복지 향상에 기여함을 목적으로 함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001373",
+   "title": "저소득노인가구 건강보험료 지원",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "장애인",
+    "저소득"
+   ],
+   "amount": "강화군 거주 주민 중 최저보험료 미만인 국민건강보험공단 서인천지사 지역가입자로 건강,요양보험료 지원",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001373&wlfareInfoReldBztpCd=02",
+   "summary": "만65세이상 노인, 장애인, 한부모,그밖에 지원이 필요하다고 강화군수가 인정한 세대 중 최저보험료(보건복지부장관이 고시한 월별 보험료의 하한액과 그에 따른 장기요양보험료를 합한 부과금액)이하 세대를 지원하여 저소득층의 건강증진 및 복지향상 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005996",
+   "title": "폐지 수집인 수거장려금 지원",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "장애인",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-06",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005996&wlfareInfoReldBztpCd=02",
+   "summary": "폐지단가의 지속적인 하락 등 변동에 따른 수익 구조 불안정에 처해 있는 영세한 폐지 수집인에게 수거장려금 지원을 통한 안정적 수집 및 자립생활을 보장해주기 위한 사업입니다.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005340",
+   "title": "강화군 대학생 등록금 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "교육",
+   "targets": [
+    "청년",
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문, E-mail",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-06",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005340&wlfareInfoReldBztpCd=02",
+   "summary": "강화군민의 교육비 부담을 경감하고 지역 인재를 육성하기 위해 등록금 지원 사업을 시작함..",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005324",
+   "title": "인천광역시 계양구 장애인 이동용 보조기기 수리지원사업",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "기타",
+   "targets": [
+    "장애인",
+    "저소득",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-06",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005324&wlfareInfoReldBztpCd=02",
+   "summary": "장애인 이동용 보조기기 수리비용을 지원함으로써 보조기기 사용의 효율성 제고와 장애인의 이동권 보장 및 사회활동 참여증진 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005321",
+   "title": "장수축하금",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-06",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005321&wlfareInfoReldBztpCd=02",
+   "summary": "노후생활의 안정과 장수를 기원하고 경로효친의 사회적 분위기를 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005207",
+   "title": "지적장애인 등의 실종 예방을 위한 위치알리미 지원 사업",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "기타",
+   "targets": [
+    "장애인",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-06",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005207&wlfareInfoReldBztpCd=02",
+   "summary": "- 실종 위험이 높은 발달장애인에게 위치알리미 기기를 지원하여 실종장애인의 조속한 발견고 복귀 도모\n- 사회 안전망 구축을 통한 발달장애인의 안전한 생활반경 보장 및 확대\n- 발달장애인의 자립능력을 제고하여 가족들의 안전한 사회활동 기반 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000910",
+   "title": "민간·가정 어린이집 누리과정 부모부담보육료 지원",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-06",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000910&wlfareInfoReldBztpCd=02",
+   "summary": "실질적 무상보육 실현을 위해 정부미지원 어린이집 재원 누리 만3~5세 과정 아동에 대한 정부지원보육료 차액분 부모부담금 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00006046",
+   "title": "맘편한 산후조리비 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "출산·육아",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "임산부",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-31",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006046&wlfareInfoReldBztpCd=02",
+   "summary": "'23년 인천 잠정 합계출산율 0.69명(전국 0.72명)으로 심각한 저출산 문제 극복을 위해 출산가정에 산후조리비 지원으로 산모와 신생아의 건강증진 도모 및 친출산 환경 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002482",
+   "title": "산모신생아 건강관리 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "임산부",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-30",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002482&wlfareInfoReldBztpCd=02",
+   "summary": "출산가정에 건강관리사를 파견하여 산모의 산후회복과 신생아의 양육을 지원하고, 출산가정의 경제적 부담 경감",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005855",
+   "title": "연수구 산후조리비용 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "임산부"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-29",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005855&wlfareInfoReldBztpCd=02",
+   "summary": "인천광역시 연수구에 거주하는 산모의 건강증진을 도모하고 출산에 따른 경제적 부담을 완화하여 출산 친화적인 환경 조성에 기여",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004261",
+   "title": "어린이집 학대 피해아동 심리치료 지원사업 계획",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "기타",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "프로그램/서비스(서비스)",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-29",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004261&wlfareInfoReldBztpCd=02",
+   "summary": "어린이집 내 아동학대사건 발생 시 피해아동에게 심리치료 서비스를 사례판단 전 조기에 지원하여 아동의 빠른 일상으로의 복귀와 마음건강 회복을 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000736",
+   "title": "초기임신부건강검진",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "청년",
+    "임산부"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-29",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000736&wlfareInfoReldBztpCd=02",
+   "summary": "초기 임신부에게 필수건강검진을 지원하여 건강하고 안전한 출산을 돕기위함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002484",
+   "title": "보훈대상자 건강생활지원수당 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "남동구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 남동구",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-24",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002484&wlfareInfoReldBztpCd=02",
+   "summary": "국가를 위하여 희생하거나 공헌한 보훈대상자의 숭고한 정신을 선양하기 위해 건강생활지원수당\r\n지원하여 예우 및 지원을 확대하고 나라정신 확산",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00006622",
+   "title": "1.0 이자지원(내집마련 대출)",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006622&wlfareInfoReldBztpCd=02",
+   "summary": "신생아 출생가구의 주거비 부담 완화를 통해 내집 마련 기회를 제공함으로써 주거안정을 도모하여 저출생 및 인구감소 문제 해결\n내집마련 주택담보대출 잔액에 0.4%~최대 1% 이자 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005997",
+   "title": "가족체류형 농어촌유학 프로그램 운영 사업",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "E-mail",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005997&wlfareInfoReldBztpCd=02",
+   "summary": "∘ 도시와 농어촌 학생 간 상호작용 경험을 통한 협력적 소통 역량 강화\n∘ 농어촌 소규모학교 교육과정 운영지원 및 활성화를 통한 지역 교육력 제고",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005930",
+   "title": "1형 당뇨병 학생 의료비 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "방문, 우편",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005930&wlfareInfoReldBztpCd=02",
+   "summary": "1형 당뇨병은 완치가 어려워 주기적인 혈당 체크 및 인슐린 주입 등 평생 치료가 필요한 질병으로 1형 당뇨qud 학생 의료비 지원을 통해 가정내 경제적 부담 완화 및 안정적인 학교생활을 도모하기 위함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005339",
+   "title": "인천광역시 제물포구 노인 스케일링 본인부담금 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "기타",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005339&wlfareInfoReldBztpCd=02",
+   "summary": "노인의 치아 상실을 예방하고 구강건강증진을 위하여 스케일링 본인부담금 지원에 필요한 사항을 마련",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005315",
+   "title": "인천광역시교육청 초등학교 1학년 입학준비금 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005315&wlfareInfoReldBztpCd=02",
+   "summary": "- 교육의 공공성 강화 및 학부모의 교육경비 경감 \n- 출생 후 처음으로 취학하는 아동을 위하여 입학 시 필요 물품을 준비할 수 있도록 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005398",
+   "title": "희귀 난치병 학생 치료비 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "우편, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005398&wlfareInfoReldBztpCd=02",
+   "summary": "난치병 학생에 대한 치료비 지원을 통해 치료 기회를 확대하고 난치병 학생의 건강권과 복지 증진에 기여",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001794",
+   "title": "장애인가정 출산지원금 지원",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "임산부",
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001794&wlfareInfoReldBztpCd=02",
+   "summary": "기존 여성장애인 출산비용 지원사업과 별도로 대상자를 남성장애인의 비장애인 배우자까지 확대 지원함으로써 저출산 시대의 사회적 문제 해소 및 장애인가정의 경제적 부담경감과 안정적 양육환경 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002485",
+   "title": "아빠 육아휴직 장려금 지원",
+   "sido": "28",
+   "sigungu": [
+    "남동구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 남동구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002485&wlfareInfoReldBztpCd=02",
+   "summary": "아빠육아휴직 장려금 지급을 통해 일과 가정이 양립하는 아이낳고 기르기 좋은 남동구 실현을 위함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002697",
+   "title": "남동구 영주귀국 사할린한인 생활안정 지원",
+   "sido": "28",
+   "sigungu": [
+    "남동구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 남동구",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002697&wlfareInfoReldBztpCd=02",
+   "summary": "영주귀국 사할린한인이 지역사회에 원만하게 정착하여 자립생활을 영위할 수 있도록 생활안정금 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001219",
+   "title": "노인·장애인 임플란트 등 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "기타",
+   "targets": [
+    "어르신",
+    "장애인",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001219&wlfareInfoReldBztpCd=02",
+   "summary": "구강건강상태가 취약한 노인과 장애인인 제물포구 주민을 대상으로 저작기능 향상을 위한 틀니, 임플란트, 크라운 및 브릿지 시술 지원을 통하여 의료비 지출 부담을 경감시키고자 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002488",
+   "title": "국가보훈대상자 위문품 지급",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002488&wlfareInfoReldBztpCd=02",
+   "summary": "국가를 위해 헌신, 공헌한 국가보훈대상자 위문 및 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000760",
+   "title": "국가보훈대상자 건강증진수당 지원",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000760&wlfareInfoReldBztpCd=02",
+   "summary": "국가를 위해 희생, 공헌한 국가보훈대상자 예우 및 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001217",
+   "title": "참전유공자 및 보훈대상자 지원",
+   "sido": "28",
+   "sigungu": [
+    "영종구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 영종구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001217&wlfareInfoReldBztpCd=02",
+   "summary": "국가에 헌신,공헌한 참전유공자와 보훈대상자의 명예를 선양하고 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002330",
+   "title": "국가보훈대상자 사망위로금 지급",
+   "sido": "28",
+   "sigungu": [
+    "미추홀구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 미추홀구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002330&wlfareInfoReldBztpCd=02",
+   "summary": "사망 국가유공자와 그 유족에 대한 예우 실현",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001618",
+   "title": "노숙자 및 행려자 보호",
+   "sido": "28",
+   "sigungu": [
+    "서해구"
+   ],
+   "category": "돌봄",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 서해구",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001618&wlfareInfoReldBztpCd=02",
+   "summary": "노숙인 귀향여비(현물지급 불가) 및 무연고 사망자 장제비 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001224",
+   "title": "보훈예우수당 지원",
+   "sido": "28",
+   "sigungu": [
+    "미추홀구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 미추홀구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001224&wlfareInfoReldBztpCd=02",
+   "summary": "보훈예우수당 지급을 통하여 국가유공자의 자긍심 고취",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002701",
+   "title": "저소득층 건강보험료 지원",
+   "sido": "28",
+   "sigungu": [
+    "미추홀구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 미추홀구",
+   "method": "감면",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002701&wlfareInfoReldBztpCd=02",
+   "summary": "저소득층에게 질병치료에 어려움이 없도록 건강보험료를 지원하여 생활안정 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002331",
+   "title": "국민기초생활보장수급자 쓰레기봉투 및 음식물쓰레기봉투 지원",
+   "sido": "28",
+   "sigungu": [
+    "미추홀구"
+   ],
+   "category": "기타",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 미추홀구",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-23",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002331&wlfareInfoReldBztpCd=02",
+   "summary": "국민기초생활보장수급자에게 쓰레기봉투 및 음식물 쓰레기봉투를 지원을 통한 고독사 예방",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00006593",
+   "title": "강화군 어르신 여객선 무료화 운임 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006593&wlfareInfoReldBztpCd=02",
+   "summary": "관내 70세 이상 어르신 여객선 운임 무료화 지원사업",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005887",
+   "title": "인천형 중증장애인 맞춤형 복지일자리",
+   "sido": "28",
+   "sigungu": [],
+   "category": "일자리",
+   "targets": [
+    "청년",
+    "중장년",
+    "어르신",
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷, E-mail, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005887&wlfareInfoReldBztpCd=02",
+   "summary": "중증장애인이 수행가능한 맞춤형 일자리를 제공하여 지역사회구성원으로서 자립할 수 있도록 지원하고 장애인 복지를 증진",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005527",
+   "title": "인천 청년도약기지(취업아카데미)",
+   "sido": "28",
+   "sigungu": [],
+   "category": "일자리",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005527&wlfareInfoReldBztpCd=02",
+   "summary": "지역기업 수요 기반의 교육과정 운영과 실무중심 인턴십 기회 제공으로 청년의 취업역량 제고 및 혁신역량 갖춘 지역인재 양성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005468",
+   "title": "임산부 교통비 지원사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "출산·육아",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "임산부",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "모바일앱, 인터넷, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005468&wlfareInfoReldBztpCd=02",
+   "summary": "교통약자인 임산부에게 교통비 지원을 통해 건강한 출산 도모 및 경제적 부담 완화",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005222",
+   "title": "산후조리비 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "남동구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년",
+    "임산부",
+    "장애인",
+    "한부모"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 남동구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005222&wlfareInfoReldBztpCd=02",
+   "summary": "취약계층 출산가정 산후조리비 지원으로 경제적 부담을 경감하고 아이 낳기 좋은 환경조성으로 임산부와 영유아의 건강증진 및 저출산 극복 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000934",
+   "title": "행려자 보호 및 지원",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "돌봄",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000934&wlfareInfoReldBztpCd=02",
+   "summary": "행려자 귀향여비 제공",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000773",
+   "title": "출산 축하용품(출생 축하카드 포함) 지원",
+   "sido": "28",
+   "sigungu": [
+    "부평구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년",
+    "임산부"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 부평구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000773&wlfareInfoReldBztpCd=02",
+   "summary": "2018년이후 부평구 모든 출생아에 대하여 출생 축하카드 등을 지급하여 출산가정 격려 및 출산장려 분위기 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004521",
+   "title": "강화군 참전유공자 명예수당 지원",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004521&wlfareInfoReldBztpCd=02",
+   "summary": "참전유공자의 명예 선양 및 복리증진, 군민의 애국정신 함양에 이바지",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000962",
+   "title": "대일항쟁기 강제동원 피해여성근로자 생활보조비 등 지급",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000962&wlfareInfoReldBztpCd=02",
+   "summary": "대일항쟁기 강제동원 피해여성근로자의 생활편익 증진 및 인권보호",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000987",
+   "title": "장애인 자립생활 초기정착금 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "돌봄",
+   "targets": [
+    "청년",
+    "중장년",
+    "어르신",
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000987&wlfareInfoReldBztpCd=02",
+   "summary": "시설퇴소 장애인의 자립생활을 위한 초기정착금 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001617",
+   "title": "국가유공자 건강생활지원수당 지원",
+   "sido": "28",
+   "sigungu": [
+    "서해구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 서해구",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001617&wlfareInfoReldBztpCd=02",
+   "summary": "국가를 위해 헌신하고 희생한 보훈대상사들에 대한 보상과 지원으로 그분들의 숭고한 희생정신을 위로하고 건강 및 문화생활을 영유하여 명예로운 보훈 문화 정착과 애국정신 함양에 이바지 하고자 함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001190",
+   "title": "장애인 재활신문정보 보급",
+   "sido": "28",
+   "sigungu": [],
+   "category": "돌봄",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001190&wlfareInfoReldBztpCd=02",
+   "summary": "장애인복지와 관련된 다양한 정책 및 사업, 생활정보 등을 주기적으로 제공함으로써 \n장애인의 정보접근권 보장 및 사회참여 기회제공",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001249",
+   "title": "거동불편 저소득 재가노인 식사배달",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001249&wlfareInfoReldBztpCd=02",
+   "summary": "가정형편이 어렵거나 부득이한 사정으로 식사를 거를 우려가 있는 노인들에게 무료식사를 제공함으로써 노인의 건강증진 도모 및 노인을 공경하는 사회적 분위기 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001539",
+   "title": "국가보훈대상자 명예수당 지원",
+   "sido": "28",
+   "sigungu": [
+    "서해구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 서해구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001539&wlfareInfoReldBztpCd=02",
+   "summary": "서해구 국가유공자 명예 선양",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001359",
+   "title": "보훈가족 격려(국가보훈대상자 위문격려금)",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001359&wlfareInfoReldBztpCd=02",
+   "summary": "나라를 위하여 희생·공헌한 국가유공자와 유족을 위문,격려함으로써 유공자의 영예로운 삶 도모와 예우실현",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001538",
+   "title": "무연고 장제급여",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "방문, 우편",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001538&wlfareInfoReldBztpCd=02",
+   "summary": "무연고 사망자에 대한 장제비 지원(최대 80만원)",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002483",
+   "title": "노숙인 등 보호",
+   "sido": "28",
+   "sigungu": [
+    "남동구"
+   ],
+   "category": "돌봄",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 남동구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002483&wlfareInfoReldBztpCd=02",
+   "summary": "노숙인 등의 보호",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001250",
+   "title": "결연기관 운영",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-17",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001250&wlfareInfoReldBztpCd=02",
+   "summary": "시설보호아동, 가정위탁보호아동, 소년소녀가정 등 불우한 아동과 지역사회 이웃과의 결연으로 물질적, 정신적 지원을 통해 이웃사랑의 사회기풍을 조성하고 불우아동의 건전육성을 도모하기 위함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00006566",
+   "title": "강화군 대학생 주거비 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "주거",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "E-mail, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006566&wlfareInfoReldBztpCd=02",
+   "summary": "강화군 출신 대학생에게 주거비를 지원하여 대학생의 학비 부담을 경감하고 안정적인 교육여건 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005528",
+   "title": "인천 재직청년 복지포인트",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005528&wlfareInfoReldBztpCd=02",
+   "summary": "인천형 청년 근로장려 인센티브 지원의 일환으로 인천 중소제조기업 재직청년들의 장기근속 유도 및 삶의 질 향상을 위해 복지포인트를 지급하는 사업입니다.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005236",
+   "title": "강화군 중‧고등학교 신입생 교복비 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005236&wlfareInfoReldBztpCd=02",
+   "summary": "인천시 무상교복지원사업 실시에 있어 부족한 교복 지원비를 군비로 추가 지원하여 실제적 의미의 무상교복 지원 사업 추진으로 가계 안정 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004745",
+   "title": "무주택 신혼부부 전월세자금 대출이자 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "주거",
+   "targets": [
+    "청년",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004745&wlfareInfoReldBztpCd=02",
+   "summary": "무주택 신혼부부에게 전월세자금 대출이자를 지원하여 주거 마련 비용 부담을 완화하고 신혼부부의 안정적인 정착과 결혼 및 출산에 대한 인식 전환",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004940",
+   "title": "강화군 여성청소년보건위생용품 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "지역화폐",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004940&wlfareInfoReldBztpCd=02",
+   "summary": "여성청소년의 건강증진과 복지 향상에 기여할 수 있도록 보건위생물품 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004717",
+   "title": "인천형 청년월세 지원사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "주거",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004717&wlfareInfoReldBztpCd=02",
+   "summary": "경제적으로 어려움을 겪고 있는 인천 청년(35~39세) 주거비 부담 완화\n * 국가사업(청년월세 한시 특별지원(19~34세))과 동일한 사업기준 적용, 대상연령만 확대",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000985",
+   "title": "영구임대아파트단지 공동전기요금 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "주거",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000985&wlfareInfoReldBztpCd=02",
+   "summary": "인천광역시 영구임대아파트단지 공동전기요금 지원 조례에 따라\n영구임대아파트단지의 공동전기료 지원으로 거주하는 저소득 주민의 관리비 부담 경감 및 복지증진 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001444",
+   "title": "기초생활보장 관리(기초생활보장수급자 쓰레기봉투)",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "기타",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001444&wlfareInfoReldBztpCd=02",
+   "summary": "생활이 어려운 기초수급자 세대에 매월 종량제 봉투를 지원함으로서 저소득주민의 생활안정 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001537",
+   "title": "저소득층 건강보험료 지원",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "장애인",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001537&wlfareInfoReldBztpCd=02",
+   "summary": "생활에 어려움을 겪고 있는 저소득층 가구에 국민건강보험료 및 장기요양보험료를 지원하여 구민의 건강증진과 사회복지 향상",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000939",
+   "title": "청소년보호일반",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "돌봄",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "기타, 현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-15",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000939&wlfareInfoReldBztpCd=02",
+   "summary": "청소년 유해환경정화, 어린이 성범죄 예방 등",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005925",
+   "title": "전입축하 ‘쓰담쓰담 꾸러미 지원 사업’",
+   "sido": "28",
+   "sigungu": [
+    "동구"
+   ],
+   "category": "기타",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 동구",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005925&wlfareInfoReldBztpCd=02",
+   "summary": "자치단체별 생활쓰레기 배출방법(종량제 봉투 및 배출 요일 등) 차이에 따라 우리 구로 신규 전입한 세대의 배출 혼동을 예방하고 적정 배출을 유도",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005903",
+   "title": "산후조리비용 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "동구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "임산부",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 동구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005903&wlfareInfoReldBztpCd=02",
+   "summary": "❍ 인구소멸 대응 및 저출산 극복을 위한 제도적 지원\n - 지속적으로 인구 및 출생아 수의 감소가 이어지고 있어 정주여건을 개선하고 지역의 활력을 도모하기 \n   위해 인구 소멸 대응의 일환으로 출산 산모에 일정비용을 지원하여 산모와 아기의 신체적·정신적\n   빠른 회복을 위함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005529",
+   "title": "드림나래(인천청년 면접복장 지원)",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005529&wlfareInfoReldBztpCd=02",
+   "summary": "인천시 청년구직자들의 취업준비에 대한 경제적 부담 완화 및 성공적인 취업을 응원하는 면접복장 무료대여 지원사업 입니다.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005526",
+   "title": "청년 웰컴페이(이사비) 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005526&wlfareInfoReldBztpCd=02",
+   "summary": "이사빈도가 높은 청년들의 주거비 부담 완화 및 주거 불안정 해소를 위해 이사소요비용 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005338",
+   "title": "인천광역시 대학생 학자금대출 이자지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "일자리",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005338&wlfareInfoReldBztpCd=02",
+   "summary": "대학생 학자금 대출 이자지원 사업을 통해 장기화된 청년실업과 고비용의 학자금대출로 인해 어려움을 겪고 있는 청년들의 경제적 부담을 경감하고 안정적인 학업 및 구직활동을 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005332",
+   "title": "인천 중구 청년 자격시험 응시료 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "중구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 중구",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005332&wlfareInfoReldBztpCd=02",
+   "summary": "청년의 취업 및 이직 준비 등에 필수요건이 되는 어학시험 등 각종 자격시험 응시료를 지원함으로써 중구 청년의 안정적 생활기반을 조성하고 취업역량 강화를 도모하고자 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004625",
+   "title": "저소득 어르신 틀니 지원 사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004625&wlfareInfoReldBztpCd=02",
+   "summary": "치아의 결손으로 음식물 섭취가 자유롭지 못한 저소득층 노인의 구강기능 회복을 통한 삶의 질 향상",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002954",
+   "title": "어르신 대상포진 예방접종지원사업",
+   "sido": "28",
+   "sigungu": [
+    "중구"
+   ],
+   "category": "기타",
+   "targets": [
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 중구",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002954&wlfareInfoReldBztpCd=02",
+   "summary": "중구의 65세이상 어르신의 건강한 노후 생활을 위하여 대상포진 예방접종 비용을 전액 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001796",
+   "title": "어르신 품위유지비 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "동구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 동구",
+   "method": "지역화폐, 현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001796&wlfareInfoReldBztpCd=02",
+   "summary": "초고령 사회 진입에 따라 관내 거주 어르신의 행복한 노년 및 활기찬 노후생활을 도모하기 위한 어르신 품위유지비를 지원하여 노인복지 증진에 기여\n\n품위유지비 전용 동구사랑상품권 발행을 통해 관내 경제 활성화에 기여",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002493",
+   "title": "주거급여수급자 월세보증금 지원",
+   "sido": "28",
+   "sigungu": [
+    "중구"
+   ],
+   "category": "주거",
+   "targets": [
+    "청년",
+    "중장년",
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 중구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002493&wlfareInfoReldBztpCd=02",
+   "summary": "목돈마련이 어려운 주거급여수급자의 월세보증금을 지원하여 주거 취약계층의 실질적 주거비 부담을 완화하고자 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002587",
+   "title": "대상포진 무료 예방접종사업",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002587&wlfareInfoReldBztpCd=02",
+   "summary": "질병에 취약한 노년기 주민을 대상으로 대상포진 예방접종을 실시하여 질병 예방 및 건강증진 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001222",
+   "title": "효행수당",
+   "sido": "28",
+   "sigungu": [
+    "동구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 동구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001222&wlfareInfoReldBztpCd=02",
+   "summary": "경로효친의 건전한 가족제도 정착과 지역사회의 효문화 확산에 기여하고자 함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002589",
+   "title": "저소득층 국민건강보험료 지원",
+   "sido": "28",
+   "sigungu": [
+    "동구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "장애인",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 동구",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002589&wlfareInfoReldBztpCd=02",
+   "summary": "저소득층에게 질병치료에 어려움이 없도록 건강보험료를 지원하여 생활안정 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005551",
+   "title": "저소득가정 아동 예체능 수강료 지원",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-11",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005551&wlfareInfoReldBztpCd=02",
+   "summary": "경제적 어려움이 있는 가정 자녀에게 예체능 수강료를 지원함으로써 아이들이 보다 나은 미래를 펼칠 수 있는 계기를 마련하고자 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001535",
+   "title": "예비부모 엽산제 지원",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "청년",
+    "임산부"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-11",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001535&wlfareInfoReldBztpCd=02",
+   "summary": "예비부모들의 엽산제 지원을 통해 신경관결손으로 발생할 수있는 유사산, 선천성 기형아 출산등을 예방하기 위함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002494",
+   "title": "국가보훈대상자 건강생활지원수당 지원",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-11",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002494&wlfareInfoReldBztpCd=02",
+   "summary": "노령 국가보훈대상자들의 건강과 여가를 위한 수당 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000960",
+   "title": "가스안전장치(타이머콕) 보급 지원사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "장애인",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-11",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000960&wlfareInfoReldBztpCd=02",
+   "summary": "가스안전 취약계층(65세 이상 독거노인, 장애인, 치매환자, 경로당 등)의 가스사고 예방을 위한 가스안전장치(타이머콕) 설치 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000988",
+   "title": "청각장애인 인공달팽이관 수술지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-11",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000988&wlfareInfoReldBztpCd=02",
+   "summary": "청각장애인에게 인공달팽이 이식 수술비와 재활(매핑)치료비를 지원하여 정상적인 언어생활 및 장애인 가정의 의료비 부담 경감",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005908",
+   "title": "동구 청년 컬처페이 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "기타",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-04",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005908&wlfareInfoReldBztpCd=02",
+   "summary": "동구 청년들의 문화, 여가 및 스포츠 활동을 지원하여 문화생활 향유 및 자기계발 기회 제공",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00006432",
+   "title": "든든한 동행, 방문 장애인 등록 서비스",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문, 전화",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006432&wlfareInfoReldBztpCd=02",
+   "summary": "○ 거동이 불편하거나 동행 가족이 없어 장애등록 및 재진단이 어려운 장애인을 대상으로 찾아가는 행정서비스를 제공함으로써 장애등록 접근성을 제고하고 복지사각지대 해소에 기여",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00006380",
+   "title": "유치원 외국국적 유아 학비지원 사업",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006380&wlfareInfoReldBztpCd=02",
+   "summary": "∘ 생애 출발선에서 균등한 유아교육기회 제공 \n ∘ 내·외국인의 차별없는 교육기반 마련",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005906",
+   "title": "나만의 결혼식 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005906&wlfareInfoReldBztpCd=02",
+   "summary": "인천 소재 공공예식장을 활용하여 무료 대관 및 결혼식 비용 일부를 지원하여 예비부부의 경제적 부담을 해소하고 결혼문화를 확산하고자 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005727",
+   "title": "다문화가족 행사지원",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "문화·여가",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005727&wlfareInfoReldBztpCd=02",
+   "summary": "최근 증가하고 있는 다문화가족의 유대감을 증진시킬 수 있는 기회를 마련하여 건강한 가족문화 형성에 기여하고, 문화체험 활동의 기회를 제공함으로써 한국 문화의 이해도를 높이고 지역 사회의 일원으로 정착할 수 있도록 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005721",
+   "title": "옹진군 산후건강관리비 지원",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "청년",
+    "임산부",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005721&wlfareInfoReldBztpCd=02",
+   "summary": "옹진군 모든 출산가정에 산후건강관리비를 지원하여 산모의 산후회복과 건강증진을 돕고 출산가정의 경제적 부담을 완화하여 \"출산 친화 옹진\"을 만들고자하는 사업입니다.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005720",
+   "title": "암환자 의료비 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005720&wlfareInfoReldBztpCd=02",
+   "summary": "암으로 인한 개인적 고통과 피해 및 경제적 부담을 줄이기 위하여 암 치료를 위한 의료비 지원에 대한 필요한 사항을 규정",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005655",
+   "title": "부랑인 및 행려자 지원",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005655&wlfareInfoReldBztpCd=02",
+   "summary": "행려자의 안전한 귀향을 보장하기 위해 귀향여비 지급",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005653",
+   "title": "주민소득지원 및 생활안정자금 지원",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "기타",
+   "targets": [
+    "청년",
+    "중장년",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005653&wlfareInfoReldBztpCd=02",
+   "summary": "주민의 소득수준 향상을 위해 생계 자금이 부족한 주민들에게 생활안정 지원을 위한 융자금 대출",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005627",
+   "title": "치매감별검사비 확대 지원",
+   "sido": "28",
+   "sigungu": [
+    "부평구"
+   ],
+   "category": "기타",
+   "targets": [
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 부평구",
+   "method": "방문, 전화",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005627&wlfareInfoReldBztpCd=02",
+   "summary": "치매감별검사비 지원을 통해 경제적 부담을 완화하고, 소득기준과 관계없이 치매검진 서비스를 이용할 수 있도록 지원체계를 구축",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005538",
+   "title": "천사지원금 지급",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005538&wlfareInfoReldBztpCd=02",
+   "summary": "영유아기 지원 정책 마련으로 초기 양육에 따른 경제적 부담 경감 및 출산장려 분위기 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005463",
+   "title": "인천 I-패스 사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "청년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷, 모바일앱",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005463&wlfareInfoReldBztpCd=02",
+   "summary": "고물가시대 가계 부담 완화와 기후위기 대응을 위한 인천형 대중교통비 지원으로 시민의 행복한 일상 및 지속가능한 미래 설계 시책 추진",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005347",
+   "title": "인천광역시 다른 시도 소재 중.고교 등 신입생 교복비 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "교육",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005347&wlfareInfoReldBztpCd=02",
+   "summary": "교육의 공공성 강화 및 교육복지 실현",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005346",
+   "title": "국민기초생활보장수급자 쓰레기봉투 및 음식물쓰레기봉투 지원",
+   "sido": "28",
+   "sigungu": [
+    "부평구"
+   ],
+   "category": "기타",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 부평구",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005346&wlfareInfoReldBztpCd=02",
+   "summary": "국민기초생활보장수급자에게 쓰레기봉투 및 음식물 쓰레기봉투를 지원하여 수급자의 부담경감",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005344",
+   "title": "가정위탁아동 예체능활동비 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005344&wlfareInfoReldBztpCd=02",
+   "summary": "가정위탁아동 예체능활동비 지원을 통한 가정위탁아동의 건강한 신체 및 정서 함양 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005342",
+   "title": "아동·청소년 부모 빚 대물림 방지 법률지원 사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷, 방문, 전화",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005342&wlfareInfoReldBztpCd=02",
+   "summary": "❍ 법률적 지식이 부족한 아동․청소년이 부모 빚을 대물림 받아 경제적 어려움을 겪지 않도록 법률 사무처리에 필요한 사항을 지원하여 \n   건강한 사회 구성원으로 성장할 수 있도록 법률서비스 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005343",
+   "title": "장애인 활동지원사 양성 지원 사업",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005343&wlfareInfoReldBztpCd=02",
+   "summary": "장애인활동지원 제공이 불가한 도서벽지 지역에 가족지원을 위해 장애인 가족 중 활동지원사 교육 비 등 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005341",
+   "title": "영종지역 주민 대중교통 할인 제공 사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005341&wlfareInfoReldBztpCd=02",
+   "summary": "공항철도 독립운임제 구간의 수도권 환승할인 미적용으로 인한 영종지역 주민의 대중교통 이용요금 차별을 해소하기 위해\n영종지역 주민이 공항철도(영종역,운서역) 이용 시 대중교통비를 지원하는 사업입니다.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005328",
+   "title": "디딤돌 안정소득 (인천형 기초생활보장)",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005328&wlfareInfoReldBztpCd=02",
+   "summary": "중앙 정부의 제도권 밖 비수급 빈곤층에 「디딤돌 안정소득」을 지원함으로써, \n복지사각지대 해소 및 지역사회 내 사회안전망을 강화",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005319",
+   "title": "인천광역시교육청 다자녀 신학년 학습 준비비",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년",
+    "다자녀"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005319&wlfareInfoReldBztpCd=02",
+   "summary": "출산률 저하에 따른 사회문제에 적극 대처하고 양육에 유리한 환경 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005318",
+   "title": "인천광역시교육청 다자녀 체험학습비 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년",
+    "다자녀"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005318&wlfareInfoReldBztpCd=02",
+   "summary": "출산률 저하에 따른 사회문제에 적극 대처하고 양육에 유리한 환경 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005317",
+   "title": "인천광역시교육청 방과후학교 자유수강권 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005317&wlfareInfoReldBztpCd=02",
+   "summary": "저소득 가구 학생에 대한 실질적인 지원을 통해 교육비 부담 경감 및 교육 기회 확대",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005082",
+   "title": "고독사 예방을 위한 AI 안부확인 돌봄서비스",
+   "sido": "28",
+   "sigungu": [],
+   "category": "돌봄",
+   "targets": [
+    "청년",
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005082&wlfareInfoReldBztpCd=02",
+   "summary": "0. ICT·AI 등 정보통신기술 활용한 연결 및 안부확인 강화",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004911",
+   "title": "현장체험학습비 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004911&wlfareInfoReldBztpCd=02",
+   "summary": "현장체험학습 지원을 통한 심리·사회성 함양 및 인천교육 회복",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004919",
+   "title": "유치원 원외체험학습비 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "기타",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004919&wlfareInfoReldBztpCd=02",
+   "summary": "유치원 원외체험학습비 지원을 통한 유아교육의 공공성 강화 및 학부모 양육부담 경감",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003979",
+   "title": "청년 발달장애인 자산형성 지원사업(행복씨앗통장)",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "청년",
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003979&wlfareInfoReldBztpCd=02",
+   "summary": "발달장애인의 경우 취업자의 비율이 낮고, 비경제활동인구가 타 장애유형과 비교하여 상대적으로 높은 것으로 나타남에 따라,\n발달장애인의 성인기 전환 시에 경제적 자립을 지원하기 위한 자산형성 사업 필요",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001324",
+   "title": "인천형(시추가) 중증장애인 활동지원서비스",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001324&wlfareInfoReldBztpCd=02",
+   "summary": "중증장애인의 자립생활 지원 및 가족의 돌봄 부담 경감 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002233",
+   "title": "장애인 하이패스 감면단말기 구입 지원 사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문, 전화",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002233&wlfareInfoReldBztpCd=02",
+   "summary": "장애인 하이패스 감면 단말기 지원 확대를 추진하여 장애인의 이동권 보장 및 편의증진을 도모하고 장애인 가구의 경제적 부담을 경감하고자 함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001621",
+   "title": "한의약 난임치료 지원사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "출산·육아",
+   "targets": [
+    "청년",
+    "임산부",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001621&wlfareInfoReldBztpCd=02",
+   "summary": "난임으로 고통받는 가정에 한의약 난임치료 지원을 통해 경제적 부담 경감과 희망하는 자녀를 갖도록 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001932",
+   "title": "효드림복지카드(바우처)",
+   "sido": "28",
+   "sigungu": [],
+   "category": "주거",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001932&wlfareInfoReldBztpCd=02",
+   "summary": "75세 이상 기초수급자, 차상위(취약층) 어르신 복지증진 및 삶의 질 향상",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001696",
+   "title": "장애인활동지원사 종합건강검진비 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001696&wlfareInfoReldBztpCd=02",
+   "summary": "장애인활동지원사들의 낮은 임금과 고용 불안정 등 열악한 고용조건에 대하여 종합건강검진비를 지원함으로써 건강한 근무환경 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004294",
+   "title": "(인천형)발달장애인 주간활동서비스 추가지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "청년",
+    "중장년",
+    "어르신",
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004294&wlfareInfoReldBztpCd=02",
+   "summary": "국비 지원 주간활동서비스 이용시간이 부족한 발달장애인대상으로 시 자체 추가시간 제공을 통한 발달장애인 자립생활 및 사회활동 지원 강화",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002902",
+   "title": "독립유공자 명예수당 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002902&wlfareInfoReldBztpCd=02",
+   "summary": "나라를 위하여 희생·공헌한 국가유공자와 유족을 위문,격려함으로써 유공자의 영예로운 삶 도모와 예우실현",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000017",
+   "title": "서구 아빠육아휴직 장려금",
+   "sido": "28",
+   "sigungu": [
+    "서해구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 서해구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000017&wlfareInfoReldBztpCd=02",
+   "summary": "남성근로자의 육아휴직을 장려하고 양육에 따른 경제적 부담을 완화함으로써 일과 가정생활의 양립 및 가족친화적인 사회 환경 조성.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001240",
+   "title": "서구 저소득 복지대상자 출산축하용품비 지원",
+   "sido": "28",
+   "sigungu": [
+    "서해구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년",
+    "임산부",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 서해구",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001240&wlfareInfoReldBztpCd=02",
+   "summary": "저출산 대책의 일환으로 저소득층 출산가정의 출산축하용품비 지원을 통해 경제적 부담 경감 및 출산 친화적 사회분위기 조성을 위한 사회적 지원 강화 필요",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000961",
+   "title": "고등학교 무상교과서 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000961&wlfareInfoReldBztpCd=02",
+   "summary": "정규 교육과정에 필요한 교과서 무상 제공을 통한 보편적 교육복지 실현",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004518",
+   "title": "중·고등학교 신입생 교복비 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004518&wlfareInfoReldBztpCd=02",
+   "summary": "중·고등학교  신입생 무상교복 지원을 통한 보편적 교육복지 실현",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001191",
+   "title": "저소득층 학생 졸업앨범비 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001191&wlfareInfoReldBztpCd=02",
+   "summary": "저소득층 학생에 대한 졸업 앨범비 지원으로 소외감 없이 학교교육과정에 참여할 수 있도록 교육기회 제공 및 교육격차 해소",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003138",
+   "title": "저소득 어르신 보청기 지원",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003138&wlfareInfoReldBztpCd=02",
+   "summary": "난청으로 생활불편을 겪는 저소득 어르신에게 보청기를 지원하여 환자중심의 의료서비스 제공으로\n안정적인 사회생활 유지 및 건강한 노후생활 보장",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001573",
+   "title": "찾아가는 세탁서비스 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "장애인",
+    "한부모"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001573&wlfareInfoReldBztpCd=02",
+   "summary": "○기초생활보장 수급가구 중 65세이상노인·심한장애인·한부모가족 등 취약계층 가구에 대형세탁물 세탁서비스 제공을 통한 쾌적한 생활환경 지원 및 삶의 질 향상 도모\n○자활근로자 및 근로장애인 등을 위한 공공형 복지일자리 창출",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000959",
+   "title": "어린이집 부모부담보육료 지원",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000959&wlfareInfoReldBztpCd=02",
+   "summary": "어린이집 부모부담보육료 지원으로 육아부담 감소",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000957",
+   "title": "2025년 어린이집 교재비 지원",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "기타",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000957&wlfareInfoReldBztpCd=02",
+   "summary": "도서지역(자도) 거주 영유아 발달 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004520",
+   "title": "최중증장애인 24시간 활동지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004520&wlfareInfoReldBztpCd=02",
+   "summary": "상시돌봄이 필요한 최중증장애인의 안전과 복지욕구 충족을 위하여 활동지원서비스 추진",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001500",
+   "title": "부모부담보육료 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001500&wlfareInfoReldBztpCd=02",
+   "summary": "부모부담보육료 지원을 통한 부모의 양육비용 경감",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000010",
+   "title": "저소득 노인 틀니·임플란트 본인부담금 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000010&wlfareInfoReldBztpCd=02",
+   "summary": "저소득층 어르신들 대상으로 틀니 및 임플란트 시술 시 본인부담금을 지원하여 경제적 부담을 완화하고 구강건강 증진 도모하고자 합니다.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001379",
+   "title": "보훈예우수당 및 상이군경 예우수당 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001379&wlfareInfoReldBztpCd=02",
+   "summary": "국가에 헌신 공헌한 국가보훈대상자(참전유공자, 전몰군경 유가족, 독립유공자 제외)에 보훈예우 수당 및 상이군경 예우수당 지원 등으로 예우 및 삶의 질 향상",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001192",
+   "title": "전몰군경유가족수당 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001192&wlfareInfoReldBztpCd=02",
+   "summary": "국가에 헌신 공헌한 전몰군경 유가족에게 전몰군경유가족 수당을 지원하여 예우 및 삶의 질 향상",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002487",
+   "title": "국가보훈대상자 건강생활지원수당 지급",
+   "sido": "28",
+   "sigungu": [
+    "부평구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 부평구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002487&wlfareInfoReldBztpCd=02",
+   "summary": "국가보훈대상자 예우 및 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001574",
+   "title": "초중고 저소득층학생 체험학습비 지원",
+   "sido": "28",
+   "sigungu": [
+    "인천광역시교육청"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 인천광역시교육청",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001574&wlfareInfoReldBztpCd=02",
+   "summary": "가정형편이 어려운 저소득층 가정의 자녀에게 체험학습비를 지원하여 안정적 학교교육과정 참여를 통한 교육복지 구현",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004557",
+   "title": "SOS 긴급복지 (인천형 긴급복지)",
+   "sido": "28",
+   "sigungu": [],
+   "category": "일자리",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "전화, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004557&wlfareInfoReldBztpCd=02",
+   "summary": "현행 법·제도로는 지원받기 어려운 갑작스러운 위기상황으로 생계유지가  곤란한 시민에게 필요한 복지서비스를 신속하게 지원하여 위기상황에서 벗어날 수 있도록 돕는 인천형 긴급복지 제도",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000771",
+   "title": "국가보훈대상자 사망위로금 지급",
+   "sido": "28",
+   "sigungu": [
+    "부평구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 부평구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000771&wlfareInfoReldBztpCd=02",
+   "summary": "국가보훈대상자 예우 및 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001381",
+   "title": "산모신생아 건강관리서비스 본인부담금 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "출산·육아",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "임산부",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001381&wlfareInfoReldBztpCd=02",
+   "summary": "출산가정에 산후관리를 도와주는 산모신생아 건강관리사를 파견하여 산모의 산후회복과 신생아의 건강증진을 \n도모하고, 서비스가격중 본인부담금 일부를 지원함으로써 출산가정의 경제적 부담 경감",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001543",
+   "title": "저소득 취약계층 의치보철지원 사업",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "중장년",
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001543&wlfareInfoReldBztpCd=02",
+   "summary": "치아의 결손으로 음식섭취가 불편한 저소득층 주민을 대상으로 의치(틀니)보철을 보급하여 경제적 부담을 덜어주고 구강기능 회복에 기여하고 건강한 생활을 영위토록 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000772",
+   "title": "구추가 저소득장애인 진단비 및 검사비 지원",
+   "sido": "28",
+   "sigungu": [
+    "부평구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "청년",
+    "중장년",
+    "어르신",
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 부평구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000772&wlfareInfoReldBztpCd=02",
+   "summary": "장애인연금 자산기준에는 적합하나 장애 진단비용 등의 부담으로 장애인연금을 신청하지 못하는 중증장애인에게 진단 및 검사비용을 지원합니다.\n보건복지부 저소득 장애인 진단비 및 검사비 지원사업 대상자는 제외됩니다.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003835",
+   "title": "한부모가족 동절기 생활안정 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "중장년",
+    "한부모"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003835&wlfareInfoReldBztpCd=02",
+   "summary": "○ 저소득한부모가족에 난방연료비 및 월동대책비 지원하여 겨울철 생활안정 및 복지증진 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001575",
+   "title": "한부모가족 자녀교육비 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "교육",
+   "targets": [
+    "아동·청소년",
+    "한부모"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001575&wlfareInfoReldBztpCd=02",
+   "summary": "저소득 한부모가족 자녀교육비 지원으로 안정된 교육환경 조성,  생활안정 및 자립기반 조성에 도모하고자 함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001454",
+   "title": "대상포진 예방접종사업",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "기타",
+   "targets": [
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001454&wlfareInfoReldBztpCd=02",
+   "summary": "예방접종 접근성이 늦은 지역특성을 고려한 서비스입니다.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000964",
+   "title": "시각장애인플러스지원센터 운영",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "프로그램/서비스(서비스)",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000964&wlfareInfoReldBztpCd=02",
+   "summary": "시각장애인+지원센터(장애인생활이동지원센터)는 시각장애인 등의 사회활동 기회를 확대하기 위해 이동서비스 등 개인별 맞춤 서비스 제공",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001553",
+   "title": "참전유공자 명예수당 및 사망위로금, (사망)참전유공자 배우자수당 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001553&wlfareInfoReldBztpCd=02",
+   "summary": "국가에 헌신 공헌한 참전유공자 및 (사망)참전유공자 배우자들에게 명예수당 지원 등 예우 및 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001460",
+   "title": "재가 중증장애인 생계보조수당",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "장애인",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001460&wlfareInfoReldBztpCd=02",
+   "summary": "기존 장애인연금 및 장애아동수당 외에 인천시 생계보조수당을 저소득 중증장애인에게 지급함으로써 생활안정과 빈곤 감소에 기여",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002580",
+   "title": "국가보훈대상자 보훈예우수당 지급",
+   "sido": "28",
+   "sigungu": [
+    "부평구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 부평구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002580&wlfareInfoReldBztpCd=02",
+   "summary": "국가보훈대상자들에게 보훈예우수당을 지급하여 국가를 위하여\n희생하거나 공헌하신 국가유공자들의 숭고한 정신과 명예를 선양 하고, 복지증진에 기여하고자 함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001272",
+   "title": "도담도담 장난감월드(대여점) 운영 지원",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001272&wlfareInfoReldBztpCd=02",
+   "summary": "영유아 발달에 적합한 장난감ㆍ도서ㆍ영상자료를 무료로 대여함으로써 가정의 육아비용을 줄이고,\n영유아와 가족의 건전한 놀이 활동지원을 통하여 영유아의 총체적 발달을 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004442",
+   "title": "가정위탁아동 양육비 지원사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "주거",
+   "targets": [
+    "아동·청소년",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004442&wlfareInfoReldBztpCd=02",
+   "summary": "가정위탁 양육비 지원을 통한 위탁가정의 양육비 부담경감과 가정위탁아동의 복지증진",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000984",
+   "title": "가정위탁아동 진로지원 사업",
+   "sido": "28",
+   "sigungu": [],
+   "category": "주거",
+   "targets": [
+    "아동·청소년",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000984&wlfareInfoReldBztpCd=02",
+   "summary": "가정위탁 보호아동에게 다양한 서비스 제공을 통한 건강한 성장 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001241",
+   "title": "가정폭력, 성폭력 피해자 지원",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001241&wlfareInfoReldBztpCd=02",
+   "summary": "신체적, 정신적 치료가 필요한 가정폭력, 성폭력 피해자에게 의료비를 지원함으로써 폭력 피해자의 후유증을 최소화하는 등 피해자 보호 강화",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001475",
+   "title": "재가노인 지원운영",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문, 우편",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001475&wlfareInfoReldBztpCd=02",
+   "summary": "저소득 재가노인에게 다양한 복지서비스 지원을통해 삶의 질 향상 및 사회적 안전망 구축",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004159",
+   "title": "저소득 주민 소득증대 일자리 사업",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "일자리",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004159&wlfareInfoReldBztpCd=02",
+   "summary": "저소득 주민 일자리 창출로 자생의지 고취",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001522",
+   "title": "재가 중증장애인 용변처리 용품지원",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "장애인"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001522&wlfareInfoReldBztpCd=02",
+   "summary": "일상생활에 필수적인 용변처리 용품 지원을 통해 재가 중증장애인의 위생 관리 편의를 높이고, 가족의 돌봄부담을 경감하고자 함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001545",
+   "title": "화장 장려금 지원",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001545&wlfareInfoReldBztpCd=02",
+   "summary": "화장 장려금 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002583",
+   "title": "저소득주민 국민건강보험료 지원",
+   "sido": "28",
+   "sigungu": [
+    "부평구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 부평구",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002583&wlfareInfoReldBztpCd=02",
+   "summary": "생활에 어려움을 겪는 저소득주민에게 국민건강보험료 및 장기요양보험료를 지원함으로써 건강증진과 사회복지 향상 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001544",
+   "title": "저소득층에 대한 특별지원",
+   "sido": "28",
+   "sigungu": [
+    "옹진군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 옹진군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001544&wlfareInfoReldBztpCd=02",
+   "summary": "수급자 및 차상위 계층자에 대하여 동절기 난방 추가지원을 실시함으로써 이들의 생활안정에 기여",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001453",
+   "title": "한부모 가정 지원(명절위문)",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "한부모"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001453&wlfareInfoReldBztpCd=02",
+   "summary": "명절에 가중되는 저소득한부모가정의 경제적 부담을 덜어주기 위함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001380",
+   "title": "사물인터넷(IoT) 기술기반 어르신 안심안부서비스(안심폰)",
+   "sido": "28",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "어르신",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001380&wlfareInfoReldBztpCd=02",
+   "summary": "IoT기술(조도,온도,습도,동작감지, 가스감지)을 활용한 실시간 안전확인 모니터링 실시\n생활지원사를 연계한 안부확인 및 말벗서비스 제공 \n위급상황 발생 시 119연계, 생활지원사 경보알림 등 신속한 대처로 독거노인에 대한 사회안전망 구축",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000909",
+   "title": "행려자 지원 ,무연고사망자 장제비 지원",
+   "sido": "28",
+   "sigungu": [
+    "부평구"
+   ],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 부평구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000909&wlfareInfoReldBztpCd=02",
+   "summary": "노숙인 등 여비 및 무연고사망자 장제비 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002703",
+   "title": "행려자 보호 및 지원",
+   "sido": "28",
+   "sigungu": [
+    "미추홀구"
+   ],
+   "category": "돌봄",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 미추홀구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-07-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002703&wlfareInfoReldBztpCd=02",
+   "summary": "취업, 친지방문, 기타 목적으로 주거지가 아닌 타 지방을 여행하던 중 지갑등을 분실해 귀향을 할 수 없는 행려자에게 여비를 지급하여 안전하게 구호하고, 무연고 사망자의 장례비를 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005740",
+   "title": "치매치료관리비 지원",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-06-30",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005740&wlfareInfoReldBztpCd=02",
+   "summary": "치매를 조기에, 지속적으로 치료 및 관리함으로써 효과적으로 치매증상을 호전시키거나 증상 심화를 방지하여 노후 삶의 질 제고 및 사회경제적 비용 절감에 기여",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002704",
+   "title": "대상포진 예방접종 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-06-30",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002704&wlfareInfoReldBztpCd=02",
+   "summary": "65세 이상 어르신에게 대상포진 예방접종 비용을 지원함으로써 접종으로 인한 비용 부담을 경감시키고 질병 예방을 통한 삶의 질 향상 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001516",
+   "title": "아빠 육아휴직 장려금 지원",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-04-18",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001516&wlfareInfoReldBztpCd=02",
+   "summary": "남성의 육아휴직률을 높이고 육아와 가사를 분담함으로써 지역사회 출산율 제고에 기여",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004257",
+   "title": "출산.입양 장려금 지원",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년",
+    "임산부"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-04-18",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004257&wlfareInfoReldBztpCd=02",
+   "summary": "출산율 저하로 인한 인구감소와 인구노령화 현상 등 저출산 현상이 사회 문제로 대두됨에 따라 출산 분위기 조성과 국내 입양 활성화를 위해 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00006080",
+   "title": "독립유공자 및 시무형유산 보유자 의료비지원 계획",
+   "sido": "28",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "어르신",
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2025-07-01",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006080&wlfareInfoReldBztpCd=02",
+   "summary": "나라를 위해 희생한 유공자분들의 정신과 마음을 깊이 예우하며 의료비를 지원하고 \n이들의 건강한 생활에 보탬이 되고자 이 사업을 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003379",
+   "title": "한부모가족 맞춤형 서비스 지원",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년",
+    "한부모"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2025-06-19",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003379&wlfareInfoReldBztpCd=02",
+   "summary": "한부모가족 가족기능 유지 및 건강하고 문화적인 생활을 영위할 수 있도록 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001348",
+   "title": "농어촌총각 장가보내기 사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2025-06-14",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001348&wlfareInfoReldBztpCd=02",
+   "summary": "국제결혼시 비용일부를 지원함으로써 농어촌 총각들의 영농의욕 고취 및 삶의 질 향상",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003062",
+   "title": "연수구 아빠 육아휴직 장려금 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "연수구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "중장년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 연수구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2025-06-11",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003062&wlfareInfoReldBztpCd=02",
+   "summary": "연수구에 거주하는 남성 육아휴직자에게 육아휴직 장려금을 지급하여, 남성의 육아휴직률을 높이고 일과 가정생활 양립의 분위기를 조성하여 출산율 제고에 기여하고자 함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001353",
+   "title": "인플루엔자예방접종사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "기타",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "중장년",
+    "어르신"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2025-06-10",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001353&wlfareInfoReldBztpCd=02",
+   "summary": "전 군민 인플루엔자 예방접종을 실시하여 인플루엔자 유행감소시키고 사회적, 경제적 질병부담을 줄여 군민보건 향상시키고 인플루엔자예방접종 위탁사업으로 분산접종하여 피접종자 편의성 향상및 안전한 접종 시행",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001446",
+   "title": "다자녀 가정 양육비 지원",
+   "sido": "28",
+   "sigungu": [
+    "계양구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년",
+    "임산부",
+    "다자녀"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 계양구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2025-06-05",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001446&wlfareInfoReldBztpCd=02",
+   "summary": "다자녀 양육가정의 경제적 부담을 완화하여 출산친화 환경 조성",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003452",
+   "title": "아빠 육아휴직 장려금",
+   "sido": "28",
+   "sigungu": [
+    "동구"
+   ],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 동구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2025-06-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003452&wlfareInfoReldBztpCd=02",
+   "summary": "양육에 따른 경제적 부담을 경감하고 남성근로자의 육아휴직 장려를 통해 남성의 양육 돌봄 참여 확산 및 친출산 환경을 조성하여 동구의 인구 유입에 기여하고자 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001452",
+   "title": "슬레이트 처리 지원사업",
+   "sido": "28",
+   "sigungu": [
+    "강화군"
+   ],
+   "category": "기타",
+   "targets": [
+    "한부모",
+    "저소득"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 강화군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2025-06-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001452&wlfareInfoReldBztpCd=02",
+   "summary": "노후 슬레이트 지붕 처리 및 주거복지 실현",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002329",
+   "title": "출산용품 지원",
+   "sido": "28",
+   "sigungu": [
+    "동구"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "임산부"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 동구",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2025-06-03",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002329&wlfareInfoReldBztpCd=02",
+   "summary": "출생신고시 축하물품 제공함으로써 출산 장려 분위기 확산",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004933",
+   "title": "공·사립 유·초·중·고등학교 무상급식비 지원",
+   "sido": "28",
+   "sigungu": [
+    "-"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "지원내용 확인",
+   "amountNum": 0,
+   "agency": "인천광역시 -",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2022-08-01",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004933&wlfareInfoReldBztpCd=02",
+   "summary": "공사립 유,초,중,고등학교 학생을 대상으로 학기중 중식 급식비를 지원하여 학부모 부담 경감 및 보편적 교육복지 실현",
+   "verified": true,
+   "source": "bokjiro-api"
+  }
+ ]
+}

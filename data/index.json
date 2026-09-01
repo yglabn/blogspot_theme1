@@ -1,234 +1,704 @@
 {
- "updatedAt": "2026-08-27T08:26:34+09:00",
- "total": 10,
+ "updatedAt": "2026-09-02T00:53:16+09:00",
+ "total": 4760,
  "counts": {
-  "00": 2,
-  "11": 1,
-  "26": 1,
-  "27": 1,
-  "41": 2,
-  "46": 1,
-  "50": 1,
-  "51": 1
+  "11": 393,
+  "26": 283,
+  "27": 134,
+  "28": 192,
+  "30": 80,
+  "31": 101,
+  "41": 686,
+  "43": 303,
+  "44": 335,
+  "46": 554,
+  "47": 288,
+  "48": 485,
+  "50": 125,
+  "51": 401,
+  "52": 400
  },
  "featured": [
   {
-   "id": "2026-gangwon-house-repair",
-   "title": "강원 산촌 이주민 주택 수리비",
-   "sido": "51",
-   "sigungu": [
-    "정선군",
-    "평창군",
-    "영월군"
-   ],
-   "category": "주거",
+   "id": "bokjiro-WLF00004373",
+   "title": "발달장애인 직업훈련연계주택 운영 지원",
+   "sido": "47",
+   "sigungu": [],
+   "category": "기타",
    "targets": [
+    "청년",
     "중장년",
-    "저소득"
+    "장애인"
    ],
-   "amount": "가구당 최대 1,000만 원",
-   "amountNum": 10000000,
-   "agency": "강원특별자치도",
-   "method": "방문(군청)",
-   "start": "2026-09-01",
-   "end": "2026-10-31",
-   "posted": "2026-08-26",
-   "url": "https://state.gwd.go.kr",
-   "summary": "인구 감소 지역으로 전입한 가구의 노후 주택 수리비를 지원합니다. 전입 후 1년 이내 신청해야 하며 5년 거주 의무가 있습니다.",
-   "verified": true
+   "amount": "교육 이수 중 시설 거주",
+   "amountNum": 0,
+   "agency": "경상북도",
+   "method": "전화, 방문, 우편, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-29",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004373&wlfareInfoReldBztpCd=02",
+   "summary": "고용연계 직업훈련자에게 주거 공간을 지원함으로써 원거리 훈련자의 원활한 이용과 자립 생활과 고용연계를 지원하여 자립 역랑 강화",
+   "verified": true,
+   "source": "bokjiro-api"
   },
   {
-   "id": "2026-busan-sme-fund",
-   "title": "부산 소상공인 경영안정 자금",
-   "sido": "26",
-   "sigungu": [],
-   "category": "소상공인",
-   "targets": [
-    "소상공인"
+   "id": "bokjiro-WLF00003887",
+   "title": "출산장려금 지원",
+   "sido": "41",
+   "sigungu": [
+    "의왕시"
    ],
-   "amount": "업체당 최대 5,000만 원 융자",
-   "amountNum": 50000000,
-   "agency": "부산광역시",
-   "method": "온라인 + 은행 방문",
-   "start": "2026-08-25",
-   "end": "2026-08-31",
-   "posted": "2026-08-25",
-   "url": "https://www.busan.go.kr",
-   "summary": "매출이 줄어든 부산 지역 소상공인에게 저리 융자와 이자 차액을 보전합니다. 예산 소진 시 조기 마감될 수 있습니다.",
-   "verified": true
-  },
-  {
-   "id": "2026-seoul-youth-transit",
-   "title": "서울 청년 대중교통비 지원",
-   "sido": "11",
-   "sigungu": [],
-   "category": "청년",
+   "category": "출산·육아",
    "targets": [
     "청년",
-    "저소득"
+    "임산부"
    ],
-   "amount": "연 최대 10만 원",
-   "amountNum": 100000,
-   "agency": "서울특별시",
-   "method": "온라인(청년몽땅정보통)",
-   "start": "2026-03-02",
-   "end": "2026-09-02",
-   "posted": "2026-08-24",
-   "url": "https://youth.seoul.go.kr",
-   "summary": "서울에 거주하는 만 19~24세 청년의 교통비 부담을 덜기 위해 사용 실적의 20%를 마일리지로 돌려줍니다. 중위소득 150% 이하 가구가 대상입니다.",
-   "verified": true
+   "amount": "부 또는 모의 가족관계증명서에 기록된 자녀를 기준으로 출생순위 산정",
+   "amountNum": 0,
+   "agency": "경기도 의왕시",
+   "method": "인터넷, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-29",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003887&wlfareInfoReldBztpCd=02",
+   "summary": "부 또는 모의 가족관계증명서에 기록된 자녀를 기준으로 출생순위 산정",
+   "verified": true,
+   "source": "bokjiro-api"
   },
   {
-   "id": "2026-molit-youth-rent",
-   "title": "청년월세 한시 특별지원",
-   "sido": "00",
+   "id": "bokjiro-WLF00003840",
+   "title": "재해구호",
+   "sido": "46",
+   "sigungu": [
+    "곡성군"
+   ],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "1) 재해 이재민에 대한 응급 구호 물품 구입",
+   "amountNum": 0,
+   "agency": "전남광주통합특별시 곡성군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-29",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003840&wlfareInfoReldBztpCd=02",
+   "summary": "1) 재해 이재민에 대한 응급 구호 물품 구입",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001756",
+   "title": "요보호아동 자립지원",
+   "sido": "50",
+   "sigungu": [
+    "제주시"
+   ],
+   "category": "돌봄",
+   "targets": [
+    "청년",
+    "아동·청소년"
+   ],
+   "amount": " 지원기준: 아동 1인당 15,000천원(2회 분할 지급)- 첫해년도 10,000천원, 차년도 5,000천원",
+   "amountNum": 0,
+   "agency": "제주특별자치도 제주시",
+   "method": "팩스, E-mail, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-29",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001756&wlfareInfoReldBztpCd=02",
+   "summary": " 지원근거: 아동복지법 제38조, 시행령 제38조 \n  지원내용: 가정위탁아동의 사회적응을 위한 정착금\n  지원대상: 보호기간 만료로 가정위탁보호에서 제외되는 아동\n    - 보호종료일 기준으로 과거 2년 이상 연속하여 보호조치 된 아동\n  지원기준: 아동 1인당 15,000천원(2회 분할 지급)\n     - 첫해년도 10,000천원, 차년도 5,000천원\n  신청기한: 보호종료가 이루어진 당해연도에 신청 원칙 \n   ※ 단, 부득이한 사유로 당해연도에 지급이 안된 경우, 보호종료일부터 5년 이내에 보호종료 당해연도 기준금",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00006068",
+   "title": "저소득주민생활안정자금지원",
+   "sido": "47",
+   "sigungu": [
+    "경산시"
+   ],
+   "category": "기타",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "1. 융자 한도액 : 12,000천원2. 융자금 상환 : 2년 거치 3년(또는 36개월) 균등분할 상환하거나 같은 기간 내에 일시 상환. 상환기",
+   "amountNum": 0,
+   "agency": "경상북도 경산시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006068&wlfareInfoReldBztpCd=02",
+   "summary": "자활의욕이 강하면서도 일시적인 재난 기타 사유로 인하여 생계자금이 현저하게 부족한 저소득주민의 생활안정을 위한 융자금 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005539",
+   "title": "난치병 학생 치료비 지원 사업",
+   "sido": "46",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년",
+    "저소득"
+   ],
+   "amount": "* 지원금액: 재학기간 1인당 1천만원 이내 - 병원진료비 중 「국민건강보험법」제41조에 따른 요양급여 중 본인일부부담금 또는 「의료급여법」제1",
+   "amountNum": 0,
+   "agency": "전남광주통합특별시",
+   "method": "방문, 우편",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005539&wlfareInfoReldBztpCd=02",
+   "summary": "경제적인 어려움으로 치료를 제대로 받지 못하고 있는 난치병 학생에 대한 의료비 지원으로 건강한 학교생활 도모",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005203",
+   "title": "저소득층 여성청소년 생리용품 지원",
+   "sido": "47",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "아동·청소년",
+    "한부모",
+    "저소득"
+   ],
+   "amount": "생리용품 구매 바우처 연 최대 156천원(월13천원) 지원",
+   "amountNum": 0,
+   "agency": "경상북도",
+   "method": "인터넷, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005203&wlfareInfoReldBztpCd=02",
+   "summary": "생리용품 구매 바우처 연 최대 156천원(월13천원) 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00005045",
+   "title": "다문화가정 육아지원금 지원",
+   "sido": "52",
+   "sigungu": [
+    "임실군"
+   ],
+   "category": "문화·여가",
+   "targets": [
+    "아동·청소년",
+    "저소득"
+   ],
+   "amount": "-지급일: 매월 25일(지급일이 휴무일인 경우에는 그 전일에 지급)-지급액: 1인당 100,000원(신청한 달부터 지급)",
+   "amountNum": 0,
+   "agency": "전북특별자치도 임실군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005045&wlfareInfoReldBztpCd=02",
+   "summary": "□사업목적\n-저출산 문제를 극복하기 위해 경제적인 어려움을 겪고 있는 다문화가족의 생활안정을 도모하고 지역사회의 안정적인 정착 유도\n-미래 세대인 아동의 건강한 성장을 지원\n\n□사업내용\n-지원대상: 임실군에 거주하는 다문화가족의 96개월 미만 아동\n-지급액: 1인당 100,000원(신청한 달부터 지급)\n-지급일: 매월 25일(지급일이 휴무일인 경우에는 그 전일에 지급)\n-환수조치: 지급대상이 아닌 사람 또는 부정한 방법으로 지급된 것이 확인되거나 발견 된 때, 행정착오로 인해 지급되었을 때 등",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004980",
+   "title": "청소년쉼터 이용청소년 주거정착금 지원",
+   "sido": "50",
    "sigungu": [],
    "category": "주거",
    "targets": [
-    "청년",
-    "1인가구",
-    "저소득"
+    "아동·청소년"
    ],
-   "amount": "월 20만 원 × 최대 12개월",
-   "amountNum": 2400000,
-   "agency": "국토교통부",
-   "method": "온라인(복지로)",
-   "start": "2026-01-02",
-   "end": "2026-12-31",
-   "posted": "2026-08-20",
-   "url": "https://www.bokjiro.go.kr",
-   "summary": "부모와 따로 사는 만 19~34세 무주택 청년에게 실제 납부 임대료를 월 최대 20만 원까지 지원합니다. 보증금 5천만 원 이하, 월세 60만 원 이하 주택이 대상입니다.",
-   "verified": true
+   "amount": "주거정착금 1인당 최대 1,500만원 지원(3년 분할 지급)",
+   "amountNum": 0,
+   "agency": "제주특별자치도",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004980&wlfareInfoReldBztpCd=02",
+   "summary": "경제적 어려움을 겪고 있는 가정 밖 청소년의 자립을 지원하여 사회 부적응에 따른 이탈 방지 및 건강한 사회구성원으로 성장 지원",
+   "verified": true,
+   "source": "bokjiro-api"
   },
   {
-   "id": "2026-gg-youth-account",
-   "title": "경기도 청년 노동자 통장",
-   "sido": "41",
+   "id": "bokjiro-WLF00004918",
+   "title": "제주특별자치도 농민수당",
+   "sido": "50",
    "sigungu": [],
    "category": "일자리",
    "targets": [
     "청년",
-    "구직자"
+    "중장년",
+    "어르신"
    ],
-   "amount": "2년 만기 최대 580만 원",
-   "amountNum": 5800000,
-   "agency": "경기도 · 경기도일자리재단",
-   "method": "온라인(잡아바)",
-   "start": "2026-08-18",
-   "end": "2026-09-01",
-   "posted": "2026-08-18",
-   "url": "https://www.jobaba.net",
-   "summary": "매월 10만 원을 저축하면 도가 지원금을 더해 2년 뒤 목돈으로 돌려주는 자산형성 사업입니다. 도내 거주·재직 중인 청년 노동자가 신청할 수 있습니다.",
-   "verified": true
+   "amount": "제주특별차지도 농민수당(연 1회)",
+   "amountNum": 0,
+   "agency": "제주특별자치도",
+   "method": "인터넷, 방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004918&wlfareInfoReldBztpCd=02",
+   "summary": "농업 활동이 창출하는 공익적 가치 보장 및 증진을 통하여 지속 가능한 농업·농촌환경을 조성하고 제주도 고유한 농업의 특성을 높여나가며 지역경제 활성화에 기여하고자 함",
+   "verified": true,
+   "source": "bokjiro-api"
   },
   {
-   "id": "2026-moel-commute",
-   "title": "중소기업 취업 청년 교통비",
-   "sido": "00",
-   "sigungu": [],
-   "category": "일자리",
-   "targets": [
-    "청년",
-    "구직자"
-   ],
-   "amount": "분기 30만 원",
-   "amountNum": 1200000,
-   "agency": "고용노동부",
-   "method": "온라인(고용24)",
-   "start": "2026-01-15",
-   "end": "2026-08-29",
-   "posted": "2026-08-12",
-   "url": "https://www.work24.go.kr",
-   "summary": "중소기업에 재직 중인 만 34세 이하 청년의 출퇴근 교통비를 분기 단위로 지급합니다. 고용보험 가입 6개월 이상이 조건입니다.",
-   "verified": true
-  },
-  {
-   "id": "2026-daegu-senior-checkup",
-   "title": "대구 어르신 건강검진 바우처",
-   "sido": "27",
+   "id": "bokjiro-WLF00004800",
+   "title": "저소득층 건강보험료 및 노인장기요양보험료 지원",
+   "sido": "47",
    "sigungu": [
-    "수성구",
-    "달서구"
+    "울릉군"
    ],
    "category": "의료·건강",
    "targets": [
     "어르신",
     "저소득"
    ],
-   "amount": "1인당 25만 원 상당",
-   "amountNum": 250000,
-   "agency": "대구광역시",
-   "method": "방문(보건소)",
-   "start": "2026-08-01",
-   "end": "2026-09-15",
-   "posted": "2026-08-01",
-   "url": "https://www.daegu.go.kr",
-   "summary": "만 65세 이상 어르신에게 종합검진 비용을 바우처로 지원합니다. 자치구별 예산에 따라 선착순으로 마감됩니다.",
-   "verified": true
+   "amount": "공단에서 명단 통보 받아 지원대상자 선정 및 지급 결정함",
+   "amountNum": 0,
+   "agency": "경상북도 울릉군",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004800&wlfareInfoReldBztpCd=02",
+   "summary": "고령과 장애 등으로 생활에 어려움을 겪고 있는 저소득주민에게 국민건강보험법 및 노인장기요양보험법에 다른 건강보험료와 장기요양보험료를 합한 보험료를 지원함으로써 군민의 건강보호와 복지향상에 기여함",
+   "verified": true,
+   "source": "bokjiro-api"
   },
   {
-   "id": "2026-jn-young-farmer",
-   "title": "전남 농어촌 청년 정착 지원금",
+   "id": "bokjiro-WLF00003805",
+   "title": "아이돌봄서비스 본인부담금 추가 지원사업",
+   "sido": "48",
+   "sigungu": [
+    "의령군"
+   ],
+   "category": "돌봄",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "아이돌봄서비스를 이용하는 가정을 대상으로 본인부담금의 50%지원",
+   "amountNum": 0,
+   "agency": "경상남도 의령군",
+   "method": "현금지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003805&wlfareInfoReldBztpCd=02",
+   "summary": "아이돌봄서비스를 이용하는 가정을 대상으로 본인부담금의 50%지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002926",
+   "title": "태안군 결혼장려금",
+   "sido": "44",
+   "sigungu": [
+    "태안군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "3년간 총600만원 지급-1회차 : 혼인신고 후 최초 신고시 100만원- 2회차 : 1회차 지급 후 1년 후 200만원- 3회차 : 1회차 지급",
+   "amountNum": 0,
+   "agency": "충청남도 태안군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002926&wlfareInfoReldBztpCd=02",
+   "summary": "결혼 축하장려 분위기 조성으로 청년층 전입 유도 및 신혼부부의 관내 정착을 도모하기 위해 혼인신고일 기준 남녀 모두 태안군에 주민등록을 둔 부부에게 3년간 총 600만원의 결혼장려금을 지원하고 있습니다.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004352",
+   "title": "고등학교 학교급식(조석식)지원",
+   "sido": "43",
+   "sigungu": [
+    "보은군"
+   ],
+   "category": "교육",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "관내 고등학교 기숙사생 조석식 제공석식을 희망하는 관내고등학생 석식 제공",
+   "amountNum": 0,
+   "agency": "충청북도 보은군",
+   "method": "현물지급",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004352&wlfareInfoReldBztpCd=02",
+   "summary": "관내 고등학교 기숙사생 조석식 제공석식을 희망하는 관내고등학생 석식 제공",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004548",
+   "title": "아이돌봄서비스 본인부담금 추가 지원 사업",
+   "sido": "44",
+   "sigungu": [
+    "태안군"
+   ],
+   "category": "돌봄",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "아이돌봄서비스 이용후 유형에 상관없이 이용자 본인부담금 50%환급(월 60시간/ 연간 720시간)",
+   "amountNum": 0,
+   "agency": "충청남도 태안군",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004548&wlfareInfoReldBztpCd=02",
+   "summary": "아이돌봄서비스 이용후 유형에 상관없이 이용자 본인부담금 50%환급(월 60시간/ 연간 720시간)",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003538",
+   "title": "돌맞이 축하금 지원",
    "sido": "46",
-   "sigungu": [],
-   "category": "농어업",
+   "sigungu": [
+    "고흥군"
+   ],
+   "category": "의료·건강",
    "targets": [
     "청년",
-    "농어민"
+    "아동·청소년"
    ],
-   "amount": "월 최대 110만 원 × 3년",
-   "amountNum": 39600000,
-   "agency": "전라남도",
-   "method": "온라인",
-   "start": "2026-02-01",
-   "end": "2026-11-30",
-   "posted": "2026-07-30",
-   "url": "https://www.jeonnam.go.kr",
-   "summary": "귀농·귀어한 만 40세 미만 청년에게 초기 정착 자금을 단계적으로 지원합니다. 영농 경력 3년 이하이면서 도내에 거주해야 합니다.",
-   "verified": true
+   "amount": "돌맞이 축하금 지급('23년 출생아부터는 출생순위 상관없이 돌맞이 축하금 지원)",
+   "amountNum": 0,
+   "agency": "전남광주통합특별시 고흥군",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003538&wlfareInfoReldBztpCd=02",
+   "summary": "돌맞이 축하금 지급('23년 출생아부터는 출생순위 상관없이 돌맞이 축하금 지원)",
+   "verified": true,
+   "source": "bokjiro-api"
   },
   {
-   "id": "2026-suwon-birth",
-   "title": "수원시 출산 축하금",
-   "sido": "41",
+   "id": "bokjiro-WLF00004259",
+   "title": "출산장려금 지원사업",
+   "sido": "46",
    "sigungu": [
-    "수원시"
+    "고흥군"
    ],
    "category": "출산·육아",
    "targets": [
-    "다자녀",
+    "아동·청소년",
     "임산부"
    ],
-   "amount": "첫째 100만 원 / 셋째 300만 원",
-   "amountNum": 3000000,
-   "agency": "수원시청",
-   "method": "방문(행정복지센터)",
-   "start": "2026-01-01",
+   "amount": "첫째아 ~셋째아 : 1,080만원(30만원*36개월)넷째아 이상 : 1,440만원(40만원*36개월)",
+   "amountNum": 0,
+   "agency": "전남광주통합특별시 고흥군",
+   "method": "방문, 인터넷",
+   "start": "",
    "end": "상시",
-   "posted": "2026-06-11",
-   "url": "https://www.suwon.go.kr",
-   "summary": "출생 신고와 함께 신청하면 출산 축하금을 지역화폐로 지급합니다. 신청일 기준 부모 중 1명이 수원시에 6개월 이상 주민등록되어 있어야 합니다.",
-   "verified": true
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004259&wlfareInfoReldBztpCd=02",
+   "summary": "출산장려 시책으로 출산가정의 삶의 질 향상과 경제적 부담을 덜어주고 지역 사회 출산분위기 확산을 위하여 출산장려금 확대 지원",
+   "verified": true,
+   "source": "bokjiro-api"
   },
   {
-   "id": "2026-jeju-newlywed",
-   "title": "제주 신혼부부 전세자금 이자 지원",
-   "sido": "50",
+   "id": "bokjiro-WLF00003676",
+   "title": "경기도 초등학생 치과주치의사업",
+   "sido": "41",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "구강검진 및 예방처치 등 치과의료기관이 대상자에게 의료서비스 제공하고 의료비 지급\r- 구강검진 : 문진, 기본구강검사, 플라그 등 위생검사\r- ",
+   "amountNum": 0,
+   "agency": "경기도",
+   "method": "프로그램/서비스(서비스)",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003676&wlfareInfoReldBztpCd=02",
+   "summary": "구강검진 및 예방처치 등 치과의료기관이 대상자에게 의료서비스 제공하고 의료비 지급\r- 구강검진 : 문진, 기본구강검사, 플라그 등 위생검사\r- 구강교육 : 구강위생관리(칫솔질·치실질), 불소이용법\r- 예방진료 : 전문가구강위생관리,볼소도포,치아홈메우기, 치석제거 등",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002633",
+   "title": "참전유공자 배우자수당",
+   "sido": "30",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "월 8만원 수당 지급",
+   "amountNum": 0,
+   "agency": "대전광역시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002633&wlfareInfoReldBztpCd=02",
+   "summary": "월 8만원 수당 지급",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00002255",
+   "title": "서울형 주택바우처(저소득층 주택임대료 보조)",
+   "sido": "11",
    "sigungu": [],
    "category": "주거",
    "targets": [
-    "신혼부부"
+    "저소득"
    ],
-   "amount": "대출이자 연 2% 보전",
+   "amount": "- 주택임대료 보조(주택바우처) 지급  · 1인가구(120천원) , 2인가구(130천원), 3인가구(140천원), 4인가구(150천원), 5인가",
    "amountNum": 0,
-   "agency": "제주특별자치도",
-   "method": "방문(읍면동)",
-   "start": "2026-04-01",
+   "agency": "서울특별시",
+   "method": "방문",
+   "start": "",
    "end": "상시",
-   "posted": "2026-05-14",
-   "url": "https://www.jeju.go.kr",
-   "summary": "혼인 7년 이내 신혼부부의 전세 대출 이자를 최대 4년간 보전합니다. 부부 합산 연소득 기준을 충족해야 합니다.",
-   "verified": true
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002255&wlfareInfoReldBztpCd=02",
+   "summary": "저소득층의 주거비 부담을 경감하여 주거안정을 도모하고, 주거급여 비수급 가구를 지원함으로써 복지사각지대 해소하기 위하여 주택임대료 보조(주택바우처) 지급",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00001220",
+   "title": "산모신생아 건강관리 지원 사업(자체)",
+   "sido": "28",
+   "sigungu": [
+    "제물포구"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "청년",
+    "중장년"
+   ],
+   "amount": "산모신생아 건강관리 서비스 이용금액 중 정부지원금 지원(본인부담금 별도)",
+   "amountNum": 0,
+   "agency": "인천광역시 제물포구",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001220&wlfareInfoReldBztpCd=02",
+   "summary": "산모신생아 건강관리 서비스 이용금액 중 정부지원금 지원(본인부담금 별도)",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000644",
+   "title": "광명 발달장애인 직업전환센터 운영",
+   "sido": "41",
+   "sigungu": [
+    "광명시"
+   ],
+   "category": "일자리",
+   "targets": [
+    "청년",
+    "장애인"
+   ],
+   "amount": "직무능력을 향상시켜 일자리 제공",
+   "amountNum": 0,
+   "agency": "경기도 광명시",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000644&wlfareInfoReldBztpCd=02",
+   "summary": "기업의 특성과 요구를 고려하여 직무 능력에 한계가 있는 발달장애인에게 체계적인 직무 능력 훈련을 실시하고 직업역량을 강화하여 취업으로 연계",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003575",
+   "title": "경기도 의약품 안전사용 환경조성 사업",
+   "sido": "41",
+   "sigungu": [],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "의약품 안전사용 교육 및 방문약료 서비스 제공",
+   "amountNum": 0,
+   "agency": "경기도",
+   "method": "기타",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003575&wlfareInfoReldBztpCd=02",
+   "summary": "의약품 안전사용 교육 및 방문약료 서비스 제공",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003167",
+   "title": "출산 전 준비금",
+   "sido": "46",
+   "sigungu": [
+    "완도군"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년",
+    "임산부"
+   ],
+   "amount": "출산 전 준비금 50만원을 임신중 1회 지원, 쌍태아일 경우에는 자녀수에 따라 지원",
+   "amountNum": 0,
+   "agency": "전남광주통합특별시 완도군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003167&wlfareInfoReldBztpCd=02",
+   "summary": "출산 전 준비금 50만원을 임신중 1회 지원, 쌍태아일 경우에는 자녀수에 따라 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004579",
+   "title": "여성농업인 생생카드 지원사업",
+   "sido": "52",
+   "sigungu": [],
+   "category": "농어업",
+   "targets": [
+    "중장년",
+    "농어민"
+   ],
+   "amount": "1인 연간 지원액 : 13만원 지원내용 : 여성농어업인의 건강관리 및 문화·학습활동 지원 생생카드 사용처 : 스포츠용품, 수영장, 종합스포츠센터",
+   "amountNum": 0,
+   "agency": "전북특별자치도",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004579&wlfareInfoReldBztpCd=02",
+   "summary": "1인 연간 지원액 : 13만원 지원내용 : 여성농어업인의 건강관리 및 문화·학습활동 지원 생생카드 사용처 : 스포츠용품, 수영장, 종합스포츠센터, 놀이공원, 펜션·민박, 목욕탕, 찜질방 등     * 사용 업종에 한하여 전국에서 사용 가능",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000233",
+   "title": "완도군 둘째아 이상 돌맞이 축하금 지원",
+   "sido": "46",
+   "sigungu": [
+    "완도군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "아동·청소년"
+   ],
+   "amount": "둘째아 이상 돌맞이 축하금 50만원 지원",
+   "amountNum": 0,
+   "agency": "전남광주통합특별시 완도군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000233&wlfareInfoReldBztpCd=02",
+   "summary": "출산율 저하로 인한 인구감소에 대처하고 다자녀 가정 출산 준비에 따른 부담 가중에 따라 현실적 비용을 반영 지원함으로써 효과적인 지원책이 되도록 개선\n사회분위기에 따른 다자녀 가정 출산 장려를 위해 지원",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004578",
+   "title": "완도군 출산장려를 위한 양육비 지원",
+   "sido": "46",
+   "sigungu": [
+    "완도군"
+   ],
+   "category": "출산·육아",
+   "targets": [
+    "아동·청소년",
+    "임산부"
+   ],
+   "amount": "첫째아-500만원 (100만원 일시지급 400만원 24개월분할지급)둘째아-1,000만원(200만원 일시지급 800만원 36개월분할지급)셋째아-1",
+   "amountNum": 0,
+   "agency": "전남광주통합특별시 완도군",
+   "method": "방문, 인터넷",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004578&wlfareInfoReldBztpCd=02",
+   "summary": "완도군 지역의 임산부와 영유아의 건강관리를 도모하고, 출산저하에 따른 인구의 감소와 노령화 문제에 대처하기 위한 출산장려 분위기를 조성하고자 함.",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00004112",
+   "title": "중증장애인 활동보조 도추가지원",
+   "sido": "44",
+   "sigungu": [],
+   "category": "기타",
+   "targets": [
+    "청년",
+    "아동·청소년",
+    "중장년",
+    "장애인"
+   ],
+   "amount": "활동보조(신변처리, 가사, 일상생활 지원, 의사소통, 이동보조). 방문목욕 등 서비스 제공",
+   "amountNum": 0,
+   "agency": "충청남도",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004112&wlfareInfoReldBztpCd=02",
+   "summary": "장애인 활동지원(국비사업) 대상자 중 추가지원이 필요한 중증장애인에게 일상생활을 하는데 불편함이 없도록 추가지원 함으로써 도내 중증장애인의 자립생활을 도모하고 사회참여를 증진하고자 함",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00003412",
+   "title": "화장장사용료지원",
+   "sido": "51",
+   "sigungu": [
+    "영월군"
+   ],
+   "category": "의료·건강",
+   "targets": [],
+   "amount": "○  화장장 소재지 주민의 사용료를 초과하는 금액에 대하여 100만원 한도 내에서 전액 지급",
+   "amountNum": 0,
+   "agency": "강원특별자치도 영월군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003412&wlfareInfoReldBztpCd=02",
+   "summary": "장사문화의 개선을 도모하고 국토훼손을 방지하여 자연환경을 보존하고자 화장으로 장례를 치른 경우 장려금을 지급하기 위하여 필요한 사항을 규정",
+   "verified": true,
+   "source": "bokjiro-api"
+  },
+  {
+   "id": "bokjiro-WLF00000614",
+   "title": "수급자 화재안심보험 가입",
+   "sido": "48",
+   "sigungu": [
+    "합천군"
+   ],
+   "category": "의료·건강",
+   "targets": [
+    "저소득"
+   ],
+   "amount": "* 화재발생 시 보장금액 \r   - 주      택 : 최대 20,000천원\r   - 가재도구 : 최대 10,000천원",
+   "amountNum": 0,
+   "agency": "경상남도 합천군",
+   "method": "방문",
+   "start": "",
+   "end": "상시",
+   "posted": "2026-08-28",
+   "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000614&wlfareInfoReldBztpCd=02",
+   "summary": "기초생활보장 수급가그의 경우 노후주택 거주 및 화재위험에 취약하여 화재 발생 시 재산 손실에 대한 피해가 큰 바, 화재안심보험 가입 지원을 통해 재산 피해를 최소화하고, 주거 안전망을 강화하고자 함.",
+   "verified": true,
+   "source": "bokjiro-api"
   }
  ]
 }
